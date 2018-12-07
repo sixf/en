@@ -30,6 +30,7 @@ layout: page
 ## Bloggers
 
 -	Ecological Bloggers (still adding)
+	-	[Xingfeng Si](http://sixf.org/en/)
 	-	[ConservationBytes.com](http://conservationbytes.com)
 	-	[ALERT](http://alert-conservation.org)
 	-	[NatureThinker](http://www.naturethinker.org)

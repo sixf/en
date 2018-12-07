@@ -31,4 +31,4 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 1. <u>Si X</u>, Kays R, Ding P. (2014) How long is enough to detect terrestrial animals? Estimating the minimum trapping effort on camera traps. **PeerJ** 2: e374.
 1. <u>Si X</u>, Ding P. (2014) Camera trap survey of population dynamics of mammals and birds in Gutianshan Forest Dynamics Plot, eastern China. **Biodiversity Science** 22: 819–822. <small>[in Chinese]</small>
 1. Xu A, <u>Si X</u>, Wang Y, Ding P. (2014) Camera traps and its minimum trapping effort for ground-dwelling mammals in fragmented habitats in the Thousand Island Lake, Zhejiang Province. **Biodiversity Science** 22: 764–772. <small>[in Chinese with English Abstract]</small>
-1. <u>Si X</u>, Ding P. (2011) History, status of monitoring land birds in Europe and American and countermeasures of China. **Biodiversity Science** 19: 303–310. <small>[in Chinese with English Abstract]</small>
+1. <u>Si X</u>, Ding P. (2011) History, status of monitoring land birds in Europe and America and countermeasures of China. **Biodiversity Science** 19: 303–310. <small>[in Chinese with English Abstract]</small>
