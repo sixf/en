@@ -29,6 +29,8 @@ Beta diversity, biodiversity conservation, biotic homogenization, camera trap, c
 
 ## Selected Grants
 
+2019–2021 Effects of urbanization on animal diversity and ecosystem function on Chongming Islands. Shanghai Rising-Star Program
+
 2019–2022 Plant-animal mutualistic networks in fragmented habitats of the Thousand Island Lake. National Natural Science Foundation of China
 
 2018–2025 Startup Fund of Zijiang Young Scholar Award Program, East China Normal University
@@ -36,6 +38,8 @@ Beta diversity, biodiversity conservation, biotic homogenization, camera trap, c
 2016–2018 Taxonomic and functional beta diversity of bird and mammal communities in fragmented habitats of the Thousand Island Lake. National Natural Science Foundation of China
 
 ## Selected Awards
+
+2019 Shanghai Rising-Star Program Award, Shanghai Science and Technology Commission
 
 2018  Outstanding Young Ecologist Award, Ecological Society of China
 
@@ -51,4 +55,4 @@ Associate Editor of [*Journal of Animal Ecology*](http://besjournals.onlinelibra
 
 Editor of [*Avian Research*](https://avianres.biomedcentral.com) (2018–present)
 
-Reviewer for journals: *Nature Ecology and Evolution, Ecology Letters, Journal of Animal Ecology, Ecology, Global Ecology and Biogeography, Ecography, Functional Ecology, Journal of Biogeography, Biological Conservation, Biodiversity and Conservation, Integrative Zoology, Austral Ecology, Avian Research, Journal of Plant Research, PeerJ, Biodiversity Science* etc. See more review records in his [Publons](https://publons.com/author/1198034/xingfeng-si#profile) profile.
+Reviewer for journals: *Nature Ecology and Evolution, Ecology Letters, Ecology, Journal of Animal Ecology, Methods in Ecology and Evolution, Global Ecology and Biogeography, Ecography, Journal of Applied Ecology, Functional Ecology, Journal of Biogeography, Biological Conservation, Landscape Ecology* etc. See more review records in his [Publons](https://publons.com/author/1198034/xingfeng-si#profile) profile.
