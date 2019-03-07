@@ -29,7 +29,7 @@ Beta diversity, biodiversity conservation, biotic homogenization, camera trap, c
 
 ## Selected Grants
 
-2019–2021 Effects of urbanization on animal diversity and ecosystem function on Chongming Islands. Shanghai Rising-Star Program
+2019–2022 Effects of urbanization on animal diversity and ecosystem function on Chongming Islands. Shanghai Rising-Star Program
 
 2019–2022 Plant-animal mutualistic networks in fragmented habitats of the Thousand Island Lake. National Natural Science Foundation of China
 
