@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Xingfeng is principally a community ecologist and biogeographer, with a special interest in birds and mammals. Using functional and phylogenetic approaches, his current research examines community assembly of island faunas, biodiversity changes after habitat fragmentation, and human impacts on biodiversity at the large scale.
+Xingfeng is principally a community ecologist and biogeographer, with a special interest in animal ecology. Using functional and phylogenetic approaches, his current research examines community assembly of island faunas, biodiversity changes after habitat fragmentation, and human impacts on biodiversity at the large scale.
 
 ## Research Interests
 
@@ -11,7 +11,7 @@ Beta diversity, biodiversity conservation, biotic homogenization, camera trap, c
 
 ## Appointments
 
-2018–present	Professor, [East China Normal University](http://www.ecnu.edu.cn)
+2018–present	Professor, East China Normal University
 
 2016–2018 Postdoctoral Fellow, University of Toronto
 
@@ -55,4 +55,4 @@ Associate Editor of [*Journal of Animal Ecology*](http://besjournals.onlinelibra
 
 Editor of [*Avian Research*](https://avianres.biomedcentral.com) (2018–present)
 
-Reviewer for journals: *Nature Ecology and Evolution, Ecology Letters, Ecology, Journal of Animal Ecology, Methods in Ecology and Evolution, Global Ecology and Biogeography, Ecography, Journal of Applied Ecology, Functional Ecology, Journal of Biogeography, Biological Conservation, Landscape Ecology* etc. See more review records in his [Publons](https://publons.com/author/1198034/xingfeng-si#profile) profile.
+Reviewer for journals: *Nature Ecology and Evolution, Nature Communications, Ecology Letters, Ecology, Journal of Animal Ecology, Methods in Ecology and Evolution, Global Ecology and Biogeography, Ecography, Journal of Applied Ecology, Functional Ecology, Journal of Biogeography, Biological Conservation, Landscape Ecology* etc. See more review records in his [Publons](https://publons.com/author/1198034/xingfeng-si#profile) profile.
