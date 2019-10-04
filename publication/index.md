@@ -8,7 +8,8 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-1. Cadotte MW, Carboni M, <u>Si X</u>, Tatsumi S. (2019) Do traits and phylogeny support congruent community diversity patterns and assembly inferences? **Journal of Ecology**, *accepted*. 
+1. Kays R, Arbogast BS, Baker-Whatton M, Beirne C, Boone HM, Bowler M, Burneo SF, Cove MV, Ding P, Espinosa S, Gonçalves ALS, Hansen CP, Jansen PA, Kolowski JM, Knowles TW, Lima MGM, Millspaugh J, McShea WJ, Pacifici K, Parsons AW, Pease BS, Rovero F, Santos F, Schuttler SG, Sheil D, <u>Si X</u>, Snider M, Spironello WR. (2019) An empirical evaluation of camera trap study design: how many, how long, and when? **Methods in Ecology and Evolution**, *accepted*.
+1. Cadotte MW, Carboni M, <u>Si X</u>, Tatsumi S. (2019) Do traits and phylogeny support congruent community diversity patterns and assembly inferences? **Journal of Ecology**, 107, 2065–2077. 
 1. Chen C, Holyoak M, Wang Y, <u>Si X</u>, Ding P. (2019) Spatiotemporal distribution of seasonal bird assemblages on land-bridge islands: linking dynamic and static views of metacommunities. **Avian Research**, 10, 25.
 1. Ding Z, Liang J, Hu Y, Sun H, Liu L, Liu H, Hu H, <u>Si X</u>. (2019) Different responses of avian feeding guilds to spatial and environmental factors across an elevation gradient in the central Himalaya. **Ecology and Evolution**, 9, 4116–4128.
 1. Zeng D, Swihart RK, Zhao Y, <u>Si X</u>, Ding P. (2019) Cascading effects of forested area and isolation on seed dispersal effectiveness of rodents on subtropical islands. **Journal of Ecology**, 107, 1506–1517.
@@ -30,7 +31,6 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 1. <u>Si X</u>, Baselga A, Ding P. (2015) Revealing beta-diversity patterns of breeding bird and lizard communities on inundated land-bridge islands by separating the turnover and nestedness components. **PLoS ONE**, 10, e0127692.
 1. Shen G, Pimm SL, Feng C, Ren G, Liu Y, Xu W, Li J, <u>Si X</u>, Xie Z. (2015) Climate change challenges the current conservation strategy for the giant panda. **Biological Conservation**, 190, 43–50.
 1. Goodale E, Ding P, Liu X, Martínez A, <u>Si X</u>, Walters M, Robinson SK. (2015) The structure of mixed-species bird flocks, and their response to anthropogenic disturbance, with special reference to East Asia. **Avian Research**, 6, 14.
-2. Xu G, Hu G, <u>Si X</u>, Lu G, Yu M, Ding P, Hong L. (2015) Habitat fragmentation and biodiversity research on Thousand Island Lake. **Forest Inventory and Planning**, 40, 42-48. <small>[in Chinese with English Abstract]</small>
 1. <u>Si X</u>, Pimm SL, Russell GJ, Ding P. (2014) Turnover of breeding bird communities on islands in an inundated lake. **Journal of Biogeography**, 41, 2283–2292.
 1. <u>Si X</u>, Kays R, Ding P. (2014) How long is enough to detect terrestrial animals? Estimating the minimum trapping effort on camera traps. **PeerJ**, 2, e374.
 1. <u>Si X</u>, Ding P. (2014) Camera trap survey of population dynamics of mammals and birds in Gutianshan Forest Dynamics Plot, eastern China. **Biodiversity Science**, 22, 819–822. <small>[in Chinese]</small>
