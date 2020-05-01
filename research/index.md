@@ -7,11 +7,11 @@ Xingfeng is principally a community ecologist and biogeographer, with a special 
 
 ## Research Interests
 
-Beta diversity, biodiversity conservation, biotic homogenization, camera trap, community assembly, functional trait, habitat fragmentation, imperfect detection, island biogeography, land-use change, occupancy model, phylogenetic diversity, species interaction, wildlife monitoring.
+Beta diversity, biodiversity conservation, biotic homogenization, camera trap, community assembly, functional trait, habitat fragmentation, imperfect detection, island biogeography, land-use change, occupancy model, phylogenetic diversity, species interaction, urban ecology, wildlife monitoring.
 
 ## Appointments
 
-2018–present	Professor, East China Normal University
+2018–present	Research Professor, East China Normal University
 
 2016–2018 Postdoctoral Fellow, University of Toronto
 
