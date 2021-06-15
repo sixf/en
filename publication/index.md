@@ -9,29 +9,17 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 ---
 
 1. Zhang C, Cadotte MW, Chiarucci A, Loreau M, Willis GC, <u>Si X</u>, Li L\*, Cianciaruso MV. (2021) Scale-dependent shifts in functional and phylogenetic structure of Mediterranean island plant communities over two centuries. **Journal of Ecology**, in press.
-
 1. Ding Z, Hu H, Cadotte MW, Hu Y, Liang J, <u>Si X</u>\*. (2021) Elevational patterns of bird functional and phylogenetic structure in the central Himalaya. **Ecography**, in press. doi: ‪10.1111/ecog.05660.‬
-
 1. Sreekar R\*, <u>Si X</u>, Sam K, Liu J, Dayananda S, Goodale U, Kotagama S, Goodale E. (2021) Land-use and elevation interact to shape bird functional and phylogenetic diversity and structure: Implications for designing optimal agriculture landscapes. **Journal of Applied Ecology**, in press. doi: 10.1111/1365-2664.13927.
-
 1. Chu C\*, Chen L, Fan P, He Z, Li Y, Liao J, Liu X, Niu K, <u>Si X</u>, Wang S, Xi X. (2021) Conceptual and theoretical dimensions of biodiversity research in China: Examples from plants. **National Science Review**, in press. doi: 10.1093/nsr/nwab060.
-
 1. Møller AP\*, <u>Si X</u>. (2021) Personality of hosts and their brood parasites. **Current Zoology**, in press. doi: 10.1093/cz/zoab031.
-
 1. Wang X, Svenning J-C, Liu J, Zhao Z, Zhang Z, Feng G, <u>Si X</u>, Zhang J\*. (2021) Regional effects of plant diversity and biotic homogenization in urban greenspace – the case of university campuses across China. **Urban Forestry & Urban Greening**, 62, 127170.
-
 1. Zhu C, Li W, Wang D, Ding P\*, <u>Si X</u>\*. (2021) Plant–frugivore interactions revealed by arboreal camera trapping. **Frontiers in Ecology and the Environment**, 19, 149–151.
-
-1. Liu X#, Jia P#, Cadotte MW, Zhu C, <u>Si X</u>, Wang Y, Chen F, Wu J, Zhou S\*. (2021) Host plant environmental filtering drives foliar fungal community assembly in symptomatic leaves. Oecologia, 195, 737–749.
-
+1. Liu X<sup>#</sup>, Jia P<sup>#</sup>, Cadotte MW, Zhu C, <u>Si X</u>, Wang Y, Chen F, Wu J, Zhou S\*. (2021) Host plant environmental filtering drives foliar fungal community assembly in symptomatic leaves. **Oecologia**, 195, 737–749.
 1. Zhao Y, Dunn R, Zhou H, <u>Si X</u>\*, Ding P\*. (2020) Island area, not isolation, drives the taxonomic, phylogenetic and functional diversity of ants on land-bridge islands. **Journal of Biogeography**, 47, 1627–1637. [Editors' Choice]
-
 1. Wang N, Mao L, Yang X, <u>Si X</u>, Wang Y, Eiserhardt WL, Feng G\*. (2020) High plant species richness and stable climate lead to richer but phylogenetically and functionally clustered avifaunas. **Journal of Biogeography**, 47, 1945–1954.
-
 1. Yang C\*, <u>Si X</u>, Liang W, Møller AP. (2020) Spatial variation in egg polymorphism among cuckoo hosts across four continents. **Current Zoology**, 66, 477–483.
-
 1. Kays R\*, Arbogast BS, Baker-Whatton M, Beirne C, Boone HM, Bowler M, Burneo SF, Cove MV, Ding P, Espinosa S, Gonçalves ALS, Hansen CP, Jansen PA, Kolowski JM, Knowles TW, Lima MGM, Millspaugh J, McShea WJ, Pacifici K, Parsons AW, Pease BS, Rovero F, Santos F, Schuttler SG, Sheil D, <u>Si X</u>, Snider M, Spironello WR. (2020) An empirical evaluation of camera trap study design: how many, how long, and when? **Methods in Ecology and Evolution**, 11, 700–713.
-
 1. Yang X, Wang Y, <u>Si X</u>, Feng G\*. (2020) Species traits linked with range shifts of Chinese birds. **Global Ecology and Conservation**, 21, e00874.
 1. Cadotte MW\*, Carboni M, <u>Si X</u>, Tatsumi S. (2019) Do traits and phylogeny support congruent community diversity patterns and assembly inferences? **Journal of Ecology**, 107, 2065–2077. 
 1. Chen C, Holyoak M, Wang Y, <u>Si X</u>, Ding P\*. (2019) Spatiotemporal distribution of seasonal bird assemblages on land-bridge islands: linking dynamic and static views of metacommunities. **Avian Research**, 10, 25.
