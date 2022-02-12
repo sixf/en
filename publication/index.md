@@ -9,7 +9,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 ---
 
 1. <u>Si X</u>\*, Cadotte MW, Davies TJ, Antonelli A, Ding P, Svenning J-C, Faurby S. (2022) Phylogenetic and functional clustering illustrate the roles of adaptive radiation and dispersal filtering in jointly shaping late-Quaternary mammal assemblages on oceanic islands. **Ecology Letters**, in press.
-1. Yan E\*, <u>Si X</u>, Zhang J, Chen X. (2022) Edward O. Wilson and the theory of island biogeography. **Biodiversity Science**, 30, 22024. <small>[in Chinese with English Abstract]</small>
+1. Yan E\*, <u>Si X</u>, Zhang J, Chen X. (2022) Edward O. Wilson and the theory of island biogeography. **Biodiversity Science**, 30, 22024. <small>[in Chinese]</small>
 1. Wang X, Zhong M, Zhang J, <u>Si X</u>, Yang S, Jiang J, Hu J\*. (2022) Multiple dimensions of amphibian diversity and community structure along a 2600-m elevational gradient on the eastern margin of the Qinghai-Tibetan Plateau. **Zoological Research**, 43, 46–57.
 1. López-Bosch D, Rocha R, López-Baucells A, Wang Y, <u>Si X</u>, Ding P, Gibson L\*, Palmeirim AF\*. (2021) Passive acoustic monitoring reveals role of habitat affinity in sensitivity of sub-tropical East Asian bats to fragmentation. **Remote Sensing in Ecology and Conservation**, in press. doi: 10.1002/rse2.237.
 1. Zhao Y, Sanders NJ, Liu J, Jin T, Zhou H, Lu R, Ding P, <u>Si X</u>\*. (2021) β diversity among ant communities on fragmented habitat islands: the roles of species trait, phylogeny and abundance. **Ecography**, 44, 1568–1578.
