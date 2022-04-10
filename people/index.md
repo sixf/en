@@ -15,7 +15,6 @@ Research interests: Animal ecology, habitat fragmentation, island biogeography, 
 
 ---
 
-
 ## Postdoctoral Fellow
 
 <p><img src="http://sixf.org/files/images/people/zhaoyuhao.jpg" width="100" title="Yuhao Zhao" align="right" /></p>
@@ -45,7 +44,6 @@ Email: dzeng(at)des.ecnu.edu.cn
 Research interests: biodiversity, defaunation, ecological networks in fragmented habitats, rodent seed dispersal
 
 ---
-
 
 ## PhD Students
 
@@ -85,7 +83,6 @@ Email: penghan_eco(at)qq.com
 Research interests: Community ecology, insect ecology, bird biodiversity, conservation biology
 
 ---
-
 
 ## Master's Students
 
@@ -148,9 +145,7 @@ Email: 2891358325(at)qq.com
 
 Email: shen_yao79(at)163.com
 
-
 ---
-
 
 ## Undergraduate Students
 
@@ -163,7 +158,6 @@ Guzi Ao, Shihao Yin, Yaping Liu: Bird diversity, water area, urban park
 Yuxin Su, Ruoxi Wu: Free-ranging cats and dogs, species distribution, urban habitat
 
 ---
-
 
 ## Lab Alumni
 
