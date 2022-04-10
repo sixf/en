@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+<p><img src="http://sixf.org/files/images/avatar.jpg" width="100" title="Xingfeng Si" align="right" /></p>
+
 Xingfeng is principally a community ecologist and biogeographer, with a special interest in animal ecology. Using functional and phylogenetic approaches, his current research examines community assembly of island faunas, biodiversity changes after habitat fragmentation, and human impacts on biodiversity at the large scale.
 
 ## Research Interests
@@ -55,10 +57,12 @@ Beta diversity, biodiversity conservation, biotic homogenization, camera trap, c
 
 ## Professional Services and Affiliations
 
-Associate Editor of [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) (2017–present)
-
 Editor of [*Avian Research*](https://avianres.biomedcentral.com) (2018–present)
 
 Editor of [*Biological Conservation*](https://www.journals.elsevier.com/biological-conservation) (2021–present)
+
+Associate Editor of [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) (2017–present)
+
+Young Editorial Member of [*Zoological Research*](https://www.zoores.ac.cn/news/editorialboard.htm) (2022–present)
 
 Reviewer for journals: *Nature Ecology and Evolution, Nature Communications, Ecology Letters, Ecology, Journal of Animal Ecology, Methods in Ecology and Evolution, Global Ecology and Biogeography, Ecography, Journal of Applied Ecology, Functional Ecology, Journal of Biogeography, Biological Conservation, Landscape Ecology* etc. See more review records in his [Publons](https://publons.com/author/1198034/xingfeng-si#profile) profile.
