@@ -137,7 +137,7 @@ Research interests: Community Ecology, island Biogeography, myrmecology
 
 Email: jxli(at)stu.ecnu.edu.cn
 
-Research interests: Bird diversity, community ecology, conservation biology
+Research interests: Bird diversity, community ecology, conservation biology, elevation
 
 
 <p><img src="http://sixf.org/files/images/people/luwei.jpg" width="100" title="Wei Lu" align="right" /></p>
@@ -146,7 +146,7 @@ Research interests: Bird diversity, community ecology, conservation biology
 
 Email: luwei0712(at)qq.com
 
-Research interests: Biodiversity and conservation, bird diversity
+Research interests: Biodiversity and conservation, bird diversity, island biogeography
 
 
 <p><img src="http://sixf.org/files/images/people/shenyao.jpg" width="100" title="Yao Shen" align="right" /></p>
@@ -155,7 +155,7 @@ Research interests: Biodiversity and conservation, bird diversity
 
 Email: shenyao(at)stu.ecnu.edu.cn
 
-Research interests: Bird diversity, conservation biology, urban ecology 
+Research interests: Bird diversity, conservation biology, urban ecology
 
 ---
 
