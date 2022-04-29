@@ -14,17 +14,17 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 49). Liu J\*, MacDonald ZG, <u>Si X</u>, Wu L, Zeng D, Hu G, Ding P, Yu M. (2022). SLOSS-based inferences in a fragmented landscape depend on fragment area and species-area slope. **Journal of Biogeography**, in press. doi: 10.1111/jbi.14366.
 
-48). <u>Si X</u>\*, Cadotte MW, Davies TJ, Antonelli A, Ding P, Svenning J-C, Faurby S. (2022) Phylogenetic and functional clustering illustrate the roles of adaptive radiation and dispersal filtering in jointly shaping late-Quaternary mammal assemblages on oceanic islands. **Ecology Letters**, in press. doi: 10.1111/ele.13997.
+48). <u>Si X</u>\*, Cadotte MW, Davies TJ, Antonelli A, Ding P, Svenning J-C, Faurby S. (2022) Phylogenetic and functional clustering illustrate the roles of adaptive radiation and dispersal filtering in jointly shaping late-Quaternary mammal assemblages on oceanic islands. **Ecology Letters**, 25, 1250–1262.
 
-47). Yan E\*, <u>Si X</u>, Zhang J, Chen X. (2022) Edward O. Wilson and the theory of island biogeography. **Biodiversity Science**, 30, 22024. <small>[in Chinese]</small>
+47). López-Bosch D, Rocha R, López-Baucells A, Wang Y, <u>Si X</u>, Ding P, Gibson L\*, Palmeirim AF\*. (2021) Passive acoustic monitoring reveals role of habitat affinity in sensitivity of sub-tropical East Asian bats to fragmentation. **Remote Sensing in Ecology and Conservation**, 8, 208–221.
 
-46). Wang X, Zhong M, Zhang J, <u>Si X</u>, Yang S, Jiang J, Hu J\*. (2022) Multiple dimensions of amphibian diversity and community structure along a 2600-m elevational gradient on the eastern margin of the Qinghai-Tibetan Plateau. **Zoological Research**, 43, 46–57.
+46). Zhu C, Li W, Gregory T, Wang D, Ren P, Zeng D, Kang Y, Ding P\*, <u>Si X</u>\*. (2021) Arboreal camera trapping: A reliable tool to monitor plant-frugivore interactions in the trees on large scales. <strong>Remote Sensing in Ecology and Conservation</strong>, 8, 92–104.
 
-45). López-Bosch D, Rocha R, López-Baucells A, Wang Y, <u>Si X</u>, Ding P, Gibson L\*, Palmeirim AF\*. (2021) Passive acoustic monitoring reveals role of habitat affinity in sensitivity of sub-tropical East Asian bats to fragmentation. **Remote Sensing in Ecology and Conservation**, in press. doi: 10.1002/rse2.237.
+45). Yan E\*, <u>Si X</u>, Zhang J, Chen X. (2022) Edward O. Wilson and the theory of island biogeography. **Biodiversity Science**, 30, 22024. <small>[in Chinese]</small>
 
-44). Zhao Y, Sanders NJ, Liu J, Jin T, Zhou H, Lu R, Ding P, <u>Si X</u>\*. (2021) β diversity among ant communities on fragmented habitat islands: the roles of species trait, phylogeny and abundance. **Ecography**, 44, 1568–1578.
+44). Wang X, Zhong M, Zhang J, <u>Si X</u>, Yang S, Jiang J, Hu J\*. (2022) Multiple dimensions of amphibian diversity and community structure along a 2600-m elevational gradient on the eastern margin of the Qinghai-Tibetan Plateau. **Zoological Research**, 43, 46–57.
 
-43). Zhu C, Li W, Gregory T, Wang D, Ren P, Zeng D, Kang Y, Ding P\*, <u>Si X</u>\*. (2021) Arboreal camera trapping: A reliable tool to monitor plant-frugivore interactions in the trees on large scales. <strong>Remote Sensing in Ecology and Conservation</strong>, in press. doi: 10.1002/rse2.232.
+43). Zhao Y, Sanders NJ, Liu J, Jin T, Zhou H, Lu R, Ding P, <u>Si X</u>\*. (2021) β diversity among ant communities on fragmented habitat islands: the roles of species trait, phylogeny and abundance. **Ecography**, 44, 1568–1578.
 
 42). Liu J\*, Zhao Y, <u>Si X</u>, Feng G, Slik F, Zhang J. (2021) University campuses as valuable resources for urban biodiversity research and conservation. **Urban Forestry & Urban Greening**, 64, 127255.
 
@@ -36,9 +36,9 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 38). Sreekar R\*, <u>Si X</u>, Sam K, Liu J, Dayananda S, Goodale U, Kotagama S, Goodale E. (2021) Land-use and elevation interact to shape bird functional and phylogenetic diversity and structure: Implications for designing optimal agriculture landscapes. **Journal of Applied Ecology**, 58, 1738–1748.
 
-37). Chu C\*, Chen L, Fan P, He Z, Li Y, Liao J, Liu X, Niu K, <u>Si X</u>, Wang S, Xi X. (2021) Conceptual and theoretical dimensions of biodiversity research in China: Examples from plants. **National Science Review**,8, nwab060.
+37). Møller AP\*, <u>Si X</u>. (2021) Personality of hosts and their brood parasites. **Current Zoology**, 67, 625–630.
 
-36). Møller AP\*, <u>Si X</u>. (2021) Personality of hosts and their brood parasites. **Current Zoology**, 67, 625–630.
+36). Chu C\*, Chen L, Fan P, He Z, Li Y, Liao J, Liu X, Niu K, <u>Si X</u>, Wang S, Xi X. (2021) Conceptual and theoretical dimensions of biodiversity research in China: Examples from plants. **National Science Review**,8, nwab060.
 
 35). Wang X, Svenning J-C, Liu J, Zhao Z, Zhang Z, Feng G, <u>Si X</u>, Zhang J\*. (2021) Regional effects of plant diversity and biotic homogenization in urban greenspace – the case of university campuses across China. **Urban Forestry & Urban Greening**, 62, 127170.
 
@@ -66,9 +66,9 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 23). <u>Si X</u>, Cadotte MW, Zhao Y, Zhou H, Zeng D, Li J, Jin T, Ren P, Wang Y, Ding P\*, Tingley MW. (2018) The importance of accounting for imperfect detection when estimating functional and phylogenetic community structure. **Ecology**, 99, 2103–2112.
 
-22). Ehlers Smith DA, <u>Si X</u>, Ehlers Smith YC, Downs CT\*. (2018) Seasonal variation in avian diversity and tolerance by migratory forest specialists of the patch-isolation gradient across a fragmented forest system. **Biodiversity and Conservation**, 27, 3707–3727.
+22). Zhang W, Liang C, Liu J, <u>Si X</u>, Feng G\*. (2018) Species richness, phylogenetic and functional structure of bird communities in Chinese university campuses are associated with divergent variables. **Urban Ecosystems**, 21, 1213–1225.
 
-21). Zhang W, Liang C, Liu J, <u>Si X</u>, Feng G\*. (2018) Species richness, phylogenetic and functional structure of bird communities in Chinese university campuses are associated with divergent variables. **Urban Ecosystems**, 21, 1213–1225.
+21). Ehlers Smith DA, <u>Si X</u>, Ehlers Smith YC, Downs CT\*. (2018) Seasonal variation in avian diversity and tolerance by migratory forest specialists of the patch-isolation gradient across a fragmented forest system. **Biodiversity and Conservation**, 27, 3707–3727.
 
 20). Ehlers Smith DA, <u>Si X</u>, Ehlers Smith YC, Kalle R, Ramesh T, Downs CT\*. (2018) Patterns of avian diversity across a decreasing patch-size gradient in a critically endangered sub-tropical forest system. **Journal of Biogeography**, 45, 2118–2132.
 
@@ -82,17 +82,17 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 15). <u>Si X</u>,  Cadotte MW, Zeng D, Baselga A, Zhao Y, Li J, Wu Y, Wang S, Ding P\*. (2017) Functional and phylogenetic structure of island bird communities. **Journal of Animal Ecology**, 86, 532-542. <br>In the news: [U of T News](https://www.utoronto.ca/news/what-happens-wildlife-when-humans-alter-their-habitat-u-t-research-sheds-some-light), [The Varsity](http://thevarsity.ca/2017/03/05/beyond-the-flood/).
 
-14). <u>Si X</u>, Zhao Y, Chen C, Ren P, Zeng D, Wu L, Ding P\*. (2017) Beta-diversity partitioning: Methods, applications and perspectives. **Biodiversity Science**, 25, 464–480. <small>[in Chinese with English Abstract]</small>
+14). Wu L<sup>#</sup>, <u>Si X</u><sup>#</sup>, Didham RK, Ge D, Ding P\*. (2017) Dispersal modality determines the relative partitioning of beta diversity in spider assemblages on subtropical land-bridge islands. **Journal of Biogeography**, 44, 2121–2131.
 
-13). Wu L<sup>#</sup>, <u>Si X</u><sup>#</sup>, Didham RK, Ge D, Ding P\*. (2017) Dispersal modality determines the relative partitioning of beta diversity in spider assemblages on subtropical land-bridge islands. **Journal of Biogeography**, 44, 2121–2131.
+13). <u>Si X</u>, Zhao Y, Chen C, Ren P, Zeng D, Wu L, Ding P\*. (2017) Beta-diversity partitioning: Methods, applications and perspectives. **Biodiversity Science**, 25, 464–480. <small>[in Chinese with English Abstract]</small>
 
 12). <u>Si X</u>, Baselga A, Leprieur F, Song X, Ding P\*. (2016) Selective extinction drives taxonomic and functional alpha and beta diversities in island bird assemblages. **Journal of Animal Ecology**, 85, 409–418.
 
 11). Wilson MC, Chen X, Corlett RT, Didham RK, Ding P\*, Holt RD, Holyoak M, Hu G, Hughes AC, Jiang L, Laurance WF, Liu J, Pimm SL, Robinson SK, Russo SE, <u>Si X</u>, Wilcove DS, Wu J, Yu M\*. (2016) Habitat fragmentation and biodiversity conservation: Key findings and future challenges. **Landscape Ecology**, 31, 219–227.
 
-10). Wu Y, <u>Si X</u>, Chen C, Zeng D, Zhao Y, Li J, Ding P\*. (2016) Effects of dispersal abilities on community dynamics of breeding birds on the land-bridge islands in the Thousand Island Lake, China. **Biodiversity Science**, 24, 1143–1153. <small>[in Chinese with English Abstract][Cover article]</small>
+10). Pan X, Ding Z, Hu Y, Liang J, Wu Y, <u>Si X</u>, Guo M, Hu H\*, Jin K\*. (2016) Elevational pattern of bird species richness and its causes along a central Himalaya gradient, China. **PeerJ**, 4, e2636.
 
-9). Pan X, Ding Z, Hu Y, Liang J, Wu Y, <u>Si X</u>, Guo M, Hu H\*, Jin K\*. (2016) Elevational pattern of bird species richness and its causes along a central Himalaya gradient, China. **PeerJ**, 4, e2636.
+9). Wu Y, <u>Si X</u>, Chen C, Zeng D, Zhao Y, Li J, Ding P\*. (2016) Effects of dispersal abilities on community dynamics of breeding birds on the land-bridge islands in the Thousand Island Lake, China. **Biodiversity Science**, 24, 1143–1153. <small>[in Chinese with English Abstract][Cover article]</small>
 
 8). <u>Si X</u>, Baselga A, Ding P\*. (2015) Revealing beta-diversity patterns of breeding bird and lizard communities on inundated land-bridge islands by separating the turnover and nestedness components. **PLoS ONE**, 10, e0127692.
 

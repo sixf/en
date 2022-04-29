@@ -69,7 +69,7 @@ Research interests: Urban ecology, bird diversity and distribution, ecosystem se
 
 [**Yue Wang**](https://www.researchgate.net/profile/Wang-Yue-109) **(王月)**
 
-Email: wangyue666(at)ibcas.ac.cn
+Email: wymoon666(at)126.com
 
 Research interests: biodiversity conservation, animal ecology, biogeography
 
@@ -78,9 +78,9 @@ Research interests: biodiversity conservation, animal ecology, biogeography
 
 [**Peng Han**](https://www.researchgate.net/profile/Peng_Han5) **(韩鹏)**
 
-Email: penghan_eco(at)qq.com
+Email: Peng.han_ecology(at)outlook.com
 
-Research interests: Community ecology, insect ecology, bird biodiversity, conservation biology
+Research interests: Community ecology, soundscape ecology, animal adaptation to urbanization, conservation biology
 
 ---
 
@@ -115,35 +115,47 @@ Research interests: Fragmentation, biodiversity and conservation, elevation
 
 <p><img src="http://sixf.org/files/images/people/wangrui.jpg" width="100" title="Rui Wang" align="right" /></p>
 
-[**Rui Wang**](https://) **(王蕊)**
+[**Rui Wang**](https://www.researchgate.net/profile/Rui-Wang-443) **(王蕊)**
 
 Email: maliaoyaoyao(at)163.com
 
-Research interests: Biodiversity, conservation biology, island biogeography
+Research interests: Biodiversity, behavioral ecology, island biogeography
 
 
 <p><img src="http://sixf.org/files/images/people/wuchenxiao.jpg" width="100" title="Chenxiao Wu" align="right" /></p>
 
-[**Chenxiao Wu**](https://) **(武辰晓)**
+[**Chenxiao Wu**](https://www.researchgate.net/profile/Chenxiao-Wu-3) **(武辰晓)**
 
 Email: wuchenxiao2021(at)qq.com
 
-Research interests: Urban ecology, biodiversity, island biogeography
+Research interests: Community Ecology, island Biogeography, myrmecology
 
 
-[**Jiaxin Li**](https://) **(李佳昕)**
+<p><img src="http://sixf.org/files/images/people/lijiaxin.jpg" width="100" title="Jiaxin Li" align="right" /></p>
+
+[**Jiaxin Li**](https://www.researchgate.net/profile/Jiaxin-Li-107) **(李佳昕)**
 
 Email: jxli(at)stu.ecnu.edu.cn
 
-
-[**Wei Lu**](https://) **(卢伟)**
-
-Email: 2891358325(at)qq.com
+Research interests: Bird diversity, community ecology, conservation biology
 
 
-[**Yao Shen**](https://) **(沈瑶)**
+<p><img src="http://sixf.org/files/images/people/luwei.jpg" width="100" title="Wei Lu" align="right" /></p>
 
-Email: shen_yao79(at)163.com
+[**Wei Lu**](https://www.researchgate.net/profile/Wei-Lu-145) **(卢伟)**
+
+Email: luwei0712(at)qq.com
+
+Research interests: Biodiversity and conservation, bird diversity
+
+
+<p><img src="http://sixf.org/files/images/people/shenyao.jpg" width="100" title="Yao Shen" align="right" /></p>
+
+[**Yao Shen**](https://www.researchgate.net/profile/Yao-Shen-15) **(沈瑶)**
+
+Email: shenyao(at)stu.ecnu.edu.cn
+
+Research interests: Bird diversity, conservation biology, urban ecology 
 
 ---
 
