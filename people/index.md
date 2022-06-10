@@ -161,10 +161,6 @@ Research interests: Bird diversity, conservation biology, urban ecology
 
 ## Undergraduate Students
 
-Xinyi Liu, Yao Shen, Jiaxin Li: Bird diversity, seed-dispersal network, urban park
-
-Zhengyi Liu, Luhang Jiang, Dana Yi: Dummy caterpillar, predation, urban park
-
 Guzi Ao, Shihao Yin, Yaping Liu: Bird diversity, water area, urban park
 
 Yuxin Su, Ruoxi Wu: Free-ranging cats and dogs, species distribution, urban habitat
@@ -174,3 +170,5 @@ Yuxin Su, Ruoxi Wu: Free-ranging cats and dogs, species distribution, urban habi
 ## Lab Alumni
 
 Research Assistant: Shupei Tang
+
+Undergraduate Students: Xinyi Liu, Yao Shen, Jiaxin Li; Zhengyi Liu, Luhang Jiang, Dana Yi

@@ -8,11 +8,13 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-51). Ren P, <u>Si X</u>, Ding P\*. (2022). Stable species and interactions in plant-pollinator networks deviate from core position in fragmented habitats. **Ecography**, in press. doi: 10.1111/ecog.06102.
+52). Ren P, <u>Si X</u>, Ding P\*. (2022). Stable species and interactions in plant-pollinator networks deviate from core position in fragmented habitats. **Ecography**, in press. doi: 10.1111/ecog.06102.
 
-50). Zeng C, Li W, Ding P, Peng Y\*, Wu L\*, <u>Si X</u>. (2022). A landscape-level analysis of bird taxonomic, functional and phylogenetic β-diversity in habitat island systems. **Journal of Biogeography**, in press. doi: 10.1111/jbi.14384.
+51). Yao H, Wang P, Wang N, McGowan PJK, <u>Si X</u>, Li J, Xu J\*. (2022). Functional and phylogenetic structures of pheasants in China. **Avian Research**, 13, 100041.
 
-49). Liu J\*, MacDonald ZG, <u>Si X</u>, Wu L, Zeng D, Hu G, Ding P, Yu M. (2022). SLOSS-based inferences in a fragmented landscape depend on fragment area and species-area slope. **Journal of Biogeography**, in press. doi: 10.1111/jbi.14366.
+50). Zeng C, Li W, Ding P, Peng Y\*, Wu L\*, <u>Si X</u>. (2022). A landscape-level analysis of bird taxonomic, functional and phylogenetic β-diversity in habitat island systems. **Journal of Biogeography**, 49, 1162–1175.
+
+49). Liu J\*, MacDonald ZG, <u>Si X</u>, Wu L, Zeng D, Hu G, Ding P, Yu M. (2022). SLOSS-based inferences in a fragmented landscape depend on fragment area and species-area slope. **Journal of Biogeography**, 49, 1075–1085.
 
 48). <u>Si X</u>\*, Cadotte MW, Davies TJ, Antonelli A, Ding P, Svenning J-C, Faurby S. (2022) Phylogenetic and functional clustering illustrate the roles of adaptive radiation and dispersal filtering in jointly shaping late-Quaternary mammal assemblages on oceanic islands. **Ecology Letters**, 25, 1250–1262.
 

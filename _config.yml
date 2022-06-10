@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: /:year/:month/:title/
 url: http://sixf.org/en
-author: Xingfeng Si
+author: The Si Lab
 highlighter: rouge
 
