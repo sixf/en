@@ -8,7 +8,11 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-52). Ren P, <u>Si X</u>, Ding P\*. (2022). Stable species and interactions in plant-pollinator networks deviate from core position in fragmented habitats. **Ecography**, in press. doi: 10.1111/ecog.06102.
+54). Wang D<sup>#</sup>, Zhao Y<sup>#</sup>, Tang S, Liu X, Li W, Han P, Zeng D, Wei G, Kang Y, <u>Si X</u>\*. (2022) Nearby large islands diminish biodiversity of the focal island by a negative target effect. **Journal of Animal Ecology**, in press.
+
+53). Li W, Zhu C, Grass I, Vázquez D, Wang D, Zhao Y, Zeng D, Kang Y, Ding P, <u>Si X</u>\*. (2022) Plant-frugivore network simplication under habitat fragmentation leaves a small core of interacting generalists. **Communications Biology**, in press.
+
+52). Ren P, <u>Si X</u>, Ding P\*. (2022). Stable species and interactions in plant-pollinator networks deviate from core position in fragmented habitats. **Ecography**, 2022, e06102. [Editor’s Choice]
 
 51). Yao H, Wang P, Wang N, McGowan PJK, <u>Si X</u>, Li J, Xu J\*. (2022). Functional and phylogenetic structures of pheasants in China. **Avian Research**, 13, 100041.
 

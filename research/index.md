@@ -57,12 +57,16 @@ Beta diversity, biodiversity conservation, biotic homogenization, camera trap, c
 
 ## Professional Services and Affiliations
 
-Editor of [*Avian Research*](https://avianres.biomedcentral.com) (2018–present)
-
 Editor of [*Biological Conservation*](https://www.journals.elsevier.com/biological-conservation) (2021–present)
+
+Associate Editor of [*Avian Research*](https://avianres.biomedcentral.com) (2018–present)
 
 Associate Editor of [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) (2017–present)
 
+Associate Editor of [*Wildlife Letters*](https://onlinelibrary.wiley.com/page/journal/28325869/homepage/editorial-board) (2022–present)
+
 Young Editorial Member of [*Zoological Research*](https://www.zoores.ac.cn/news/editorialboard.htm) (2022–present)
 
-Reviewer for journals: *Nature Ecology and Evolution, Nature Communications, Ecology Letters, Ecology, Journal of Animal Ecology, Methods in Ecology and Evolution, Global Ecology and Biogeography, Ecography, Journal of Applied Ecology, Functional Ecology, Journal of Biogeography, Biological Conservation, Landscape Ecology* etc. See more review records in his [Publons](https://publons.com/author/1198034/xingfeng-si#profile) profile.
+Youth Editor of [*Integrative Zoology*](https://onlinelibrary.wiley.com/journal/17494877) (2022–present)
+
+Reviewer for journals: see details in his [Publons](https://publons.com/author/1198034/xingfeng-si#profile) profile.
