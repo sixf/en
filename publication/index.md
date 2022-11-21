@@ -8,15 +8,21 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-54). Wang D<sup>#</sup>, Zhao Y<sup>#</sup>, Tang S, Liu X, Li W, Han P, Zeng D, Wei G, Kang Y, <u>Si X</u>\*. (2022) Nearby large islands diminish biodiversity of the focal island by a negative target effect. **Journal of Animal Ecology**, in press.
+57). Wang D<sup>#</sup>, Zhao Y<sup>#</sup>, Tang S, Liu X, Li W, Han P, Zeng D, Yang Y, Wei G, Kang Y, <u>Si X</u>\*. (2022) Nearby large islands diminish biodiversity of the focal island by a negative target effect. **Journal of Animal Ecology**, in press.
 
-53). Li W, Zhu C, Grass I, Vázquez D, Wang D, Zhao Y, Zeng D, Kang Y, Ding P, <u>Si X</u>\*. (2022) Plant-frugivore network simplication under habitat fragmentation leaves a small core of interacting generalists. **Communications Biology**, in press.
+56). Martínez AE<sup>#</sup>, <u>Si X</u><sup>#</sup>\*, Zhou L, Zeng D, Ding P, Goodale E*. (2022) Interspecific sociality alters the colonization and extinction rates of birds on subtropical reservoir islands. **Philosophical Transactions of the Royal Society B: Biological Sciences**, in press.
+
+55). Han P, Zhao Y, Kang Y, Ding P, <u>Si X</u>*. (2022) Island biogeography of soundscapes: island area shapes spatial patterns of avian acoustic diversity. **Journal of Biogeography**, in press.
+
+54). Ren P, Didham RK, Murphy MV, Zeng D, <u>Si X</u>, Ding P*. (2022) Edges increase pollinator network robustness to extinction with declining forest area. **Nature Ecology &amp; Evolution**, in press.
+
+53). Li W, Zhu C, Grass I, Vázquez D, Wang D, Zhao Y, Zeng D, Kang Y, Ding P, <u>Si X</u>\*. (2022) Plant-frugivore network simplication under habitat fragmentation leaves a small core of interacting generalists. **Communications Biology**, 5, 1214.
 
 52). Ren P, <u>Si X</u>, Ding P\*. (2022). Stable species and interactions in plant-pollinator networks deviate from core position in fragmented habitats. **Ecography**, 2022, e06102. [Editor’s Choice]
 
 51). Yao H, Wang P, Wang N, McGowan PJK, <u>Si X</u>, Li J, Xu J\*. (2022). Functional and phylogenetic structures of pheasants in China. **Avian Research**, 13, 100041.
 
-50). Zeng C, Li W, Ding P, Peng Y\*, Wu L\*, <u>Si X</u>. (2022). A landscape-level analysis of bird taxonomic, functional and phylogenetic β-diversity in habitat island systems. **Journal of Biogeography**, 49, 1162–1175.
+50). Zeng C, Li W, Ding P, Peng Y\*, Wu L, <u>Si X</u>. (2022). A landscape-level analysis of bird taxonomic, functional and phylogenetic β-diversity in habitat island systems. **Journal of Biogeography**, 49, 1162–1175.
 
 49). Liu J\*, MacDonald ZG, <u>Si X</u>, Wu L, Zeng D, Hu G, Ding P, Yu M. (2022). SLOSS-based inferences in a fragmented landscape depend on fragment area and species-area slope. **Journal of Biogeography**, 49, 1075–1085.
 
@@ -24,7 +30,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 47). López-Bosch D, Rocha R, López-Baucells A, Wang Y, <u>Si X</u>, Ding P, Gibson L\*, Palmeirim AF\*. (2021) Passive acoustic monitoring reveals role of habitat affinity in sensitivity of sub-tropical East Asian bats to fragmentation. **Remote Sensing in Ecology and Conservation**, 8, 208–221.
 
-46). Zhu C, Li W, Gregory T, Wang D, Ren P, Zeng D, Kang Y, Ding P\*, <u>Si X</u>\*. (2021) Arboreal camera trapping: A reliable tool to monitor plant-frugivore interactions in the trees on large scales. <strong>Remote Sensing in Ecology and Conservation</strong>, 8, 92–104.
+46). Zhu C, Li W, Gregory T, Wang D, Ren P, Zeng D, Kang Y, Ding P\*, <u>Si X</u>\*. (2022) Arboreal camera trapping: A reliable tool to monitor plant-frugivore interactions in the trees on large scales. <strong>Remote Sensing in Ecology and Conservation</strong>, 8, 92–104.
 
 45). Yan E\*, <u>Si X</u>, Zhang J, Chen X. (2022) Edward O. Wilson and the theory of island biogeography. **Biodiversity Science**, 30, 22024. <small>[in Chinese]</small>
 
