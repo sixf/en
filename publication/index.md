@@ -28,7 +28,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 48). <u>Si X</u>\*, Cadotte MW, Davies TJ, Antonelli A, Ding P, Svenning J-C, Faurby S. (2022) Phylogenetic and functional clustering illustrate the roles of adaptive radiation and dispersal filtering in jointly shaping late-Quaternary mammal assemblages on oceanic islands. **Ecology Letters**, 25, 1250–1262.
 
-47). López-Bosch D, Rocha R, López-Baucells A, Wang Y, <u>Si X</u>, Ding P, Gibson L\*, Palmeirim AF\*. (2021) Passive acoustic monitoring reveals role of habitat affinity in sensitivity of sub-tropical East Asian bats to fragmentation. **Remote Sensing in Ecology and Conservation**, 8, 208–221.
+47). López-Bosch D, Rocha R, López-Baucells A, Wang Y, <u>Si X</u>, Ding P, Gibson L\*, Palmeirim AF\*. (2022) Passive acoustic monitoring reveals role of habitat affinity in sensitivity of sub-tropical East Asian bats to fragmentation. **Remote Sensing in Ecology and Conservation**, 8, 208–221.
 
 46). Zhu C, Li W, Gregory T, Wang D, Ren P, Zeng D, Kang Y, Ding P\*, <u>Si X</u>\*. (2022) Arboreal camera trapping: A reliable tool to monitor plant-frugivore interactions in the trees on large scales. <strong>Remote Sensing in Ecology and Conservation</strong>, 8, 92–104.
 

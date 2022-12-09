@@ -13,7 +13,7 @@ Beta diversity, biodiversity conservation, biotic homogenization, camera trap, c
 
 ## Appointments
 
-2018–present	Research Professor, East China Normal University
+2018–present	Professor, East China Normal University
 
 2016–2018 Postdoctoral Fellow, University of Toronto
 
