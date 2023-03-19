@@ -86,15 +86,6 @@ Research interests: Community ecology, soundscape ecology, animal adaptation to 
 
 ## Master's Students
 
-<p><img src="http://sixf.org/files/images/people/wangduorun.jpg" width="100" title="Duorun Wang" align="right" /></p>
-
-[**Duorun Wang**](https://www.researchgate.net/profile/Duorun_Wang) **(王铎润)**
-
-Email: wdr19941021(at)foxmail.com
-
-Research interests: Community ecology, island biogeography, meta-network, conservation biology
-
-
 <p><img src="http://sixf.org/files/images/people/kangyi.jpg" width="100" title="Yi Kang" align="right" /></p>
 
 [**Yi Kang**](https://www.researchgate.net/profile/Kang_Yi7) **(康熠)**
@@ -169,6 +160,8 @@ Yuxin Su, Ruoxi Wu: Free-ranging cats and dogs, species distribution, urban habi
 
 ## Lab Alumni
 
-Research Assistant: Shupei Tang
+[**Duorun Wang**](https://www.researchgate.net/profile/Duorun_Wang) **(王铎润)**, Master's thesis in 2022: The Negative Target Effect of Bird Diversity Distribution in the Zhoushan Archipelago, China
+
+Shupei Tang (Research Assistant; 2019–2020)
 
 Undergraduate Students: Xinyi Liu, Yao Shen, Jiaxin Li; Zhengyi Liu, Luhang Jiang, Dana Yi
