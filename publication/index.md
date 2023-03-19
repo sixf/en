@@ -8,13 +8,17 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-57). Wang D<sup>#</sup>, Zhao Y<sup>#</sup>, Tang S, Liu X, Li W, Han P, Zeng D, Yang Y, Wei G, Kang Y, <u>Si X</u>\*. (2022) Nearby large islands diminish biodiversity of the focal island by a negative target effect. **Journal of Animal Ecology**, in press.
+59). Matthews TJ*, Wayman JP, Whittaker RJ, Cardoso P, Hume JP, Sayol F, Proios K, Martin TE, Baiser B, Borges PAV, Kubota Y, dos Anjos L, Tobias JA, Soares FC, <u>Si X</u>, Ding P, Mendenhall CD, Sin YCK, Rheindt FE, Triantis KA, Guilhaumon F, Watson DM, Brotons L, Battisti C, Chu O, Rigal F. (2023) A global analysis of avian island diversity–area relationships in the Anthropocene. **Ecology Letters**, in press. doi: 10.1111/ele.14203.
 
-56). Martínez AE<sup>#</sup>, <u>Si X</u><sup>#</sup>\*, Zhou L, Zeng D, Ding P, Goodale E*. (2022) Interspecific sociality alters the colonization and extinction rates of birds on subtropical reservoir islands. **Philosophical Transactions of the Royal Society B: Biological Sciences**, in press.
+58). Martínez AE<sup>#</sup>, <u>Si X</u><sup>#</sup>\*, Zhou L, Zeng D, Ding P, Goodale E*. (2023) Interspecific sociality alters the colonization and extinction rates of birds on subtropical reservoir islands. **Philosophical Transactions of the Royal Society B: Biological Sciences**, in press. doi: 10.1098/rstb.2022.0096.
 
-55). Han P, Zhao Y, Kang Y, Ding P, <u>Si X</u>*. (2022) Island biogeography of soundscapes: island area shapes spatial patterns of avian acoustic diversity. **Journal of Biogeography**, in press.
+57). Ren P, Didham RK, Murphy MV, Zeng D, <u>Si X</u>, Ding P*. (2023) Edges increase pollinator network robustness to extinction with declining forest area. **Nature Ecology &amp; Evolution**, 7, 393–404.
 
-54). Ren P, Didham RK, Murphy MV, Zeng D, <u>Si X</u>, Ding P*. (2022) Edges increase pollinator network robustness to extinction with declining forest area. **Nature Ecology &amp; Evolution**, in press.
+56). Jin T, <u>Si X</u>, Liu J, Ding P*. (2023) An integrated animal tracking technology combining a GPS tracking system with a UAV. **Methods in Ecology and Evolution**, 14, 505–511.
+
+55). Han P, Zhao Y, Kang Y, Ding P, <u>Si X</u>*. (2023) Island biogeography of soundscapes: island area shapes spatial patterns of avian acoustic diversity. **Journal of Biogeography**, in press. doi: 10.1111/jbi.14551.
+
+54). Wang D<sup>#</sup>, Zhao Y<sup>#</sup>, Tang S, Liu X, Li W, Han P, Zeng D, Yang Y, Wei G, Kang Y, <u>Si X</u>\*. (2023) Nearby large islands diminish biodiversity of the focal island by a negative target effect. **Journal of Animal Ecology**, 92, 492–502.
 
 53). Li W, Zhu C, Grass I, Vázquez D, Wang D, Zhao Y, Zeng D, Kang Y, Ding P, <u>Si X</u>\*. (2022) Plant-frugivore network simplication under habitat fragmentation leaves a small core of interacting generalists. **Communications Biology**, 5, 1214.
 
