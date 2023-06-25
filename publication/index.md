@@ -8,9 +8,15 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-59). Matthews TJ*, Wayman JP, Whittaker RJ, Cardoso P, Hume JP, Sayol F, Proios K, Martin TE, Baiser B, Borges PAV, Kubota Y, dos Anjos L, Tobias JA, Soares FC, <u>Si X</u>, Ding P, Mendenhall CD, Sin YCK, Rheindt FE, Triantis KA, Guilhaumon F, Watson DM, Brotons L, Battisti C, Chu O, Rigal F. (2023) A global analysis of avian island diversity–area relationships in the Anthropocene. **Ecology Letters**, in press. doi: 10.1111/ele.14203.
+62). Zhu C<sup>#</sup>, Li W<sup>#</sup>, Campos-Arceiz A, Dalsgaard B, Ren P, Wang D, Zhang X, Sun M, Si Q, Kang Y, Ding P\*, <u>Si X</u>\*. (2023) The reliability of regional ecological knowledge to build local interaction networks: a test using seed-dispersal networks across land-bridge islands. **Proceedings of the Royal Society B: Biological Sciences**, accepted.
 
-58). Martínez AE<sup>#</sup>, <u>Si X</u><sup>#</sup>\*, Zhou L, Zeng D, Ding P, Goodale E*. (2023) Interspecific sociality alters the colonization and extinction rates of birds on subtropical reservoir islands. **Philosophical Transactions of the Royal Society B: Biological Sciences**, in press. doi: 10.1098/rstb.2022.0096.
+61). Liang J<sup>#</sup>, Ding Z<sup>#</sup>, Li C, Hu Y, Zhou Z, Lie G, Hu H\*, <u>Si X</u>\*. (2023) Patterns and drivers of avian taxonomic and phylogenetic beta diversity in China vary across geographical backgrounds and dispersal abilities. **Zoological Research**, accepted.
+
+60). Wang P, Li S\*, Yang X, Si X, Li W, Shu W, Jiang L. (2023) Spatial scaling of soil microbial co-occurrence networks in a fragmented landscape. **mLife**, in press. doi: 10.1002/mlf2.12073.
+
+59). Matthews TJ*, Wayman JP, Whittaker RJ, Cardoso P, Hume JP, Sayol F, Proios K, Martin TE, Baiser B, Borges PAV, Kubota Y, dos Anjos L, Tobias JA, Soares FC, <u>Si X</u>, Ding P, Mendenhall CD, Sin YCK, Rheindt FE, Triantis KA, Guilhaumon F, Watson DM, Brotons L, Battisti C, Chu O, Rigal F. (2023) A global analysis of avian island diversity–area relationships in the Anthropocene. **Ecology Letters**, 26, 965–982.
+
+58). Martínez AE<sup>#</sup>, <u>Si X</u><sup>#</sup>\*, Zhou L, Zeng D, Ding P, Goodale E*. (2023) Interspecific sociality alters the colonization and extinction rates of birds on subtropical reservoir islands. **Philosophical Transactions of the Royal Society B: Biological Sciences**, 378, 20220096.
 
 57). Ren P, Didham RK, Murphy MV, Zeng D, <u>Si X</u>, Ding P*. (2023) Edges increase pollinator network robustness to extinction with declining forest area. **Nature Ecology &amp; Evolution**, 7, 393–404.
 

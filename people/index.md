@@ -82,27 +82,18 @@ Email: Peng.han_ecology(at)outlook.com
 
 Research interests: Community ecology, soundscape ecology, animal adaptation to urbanization, conservation biology
 
+
+<p><img src="http://sixf.org/files/images/people/yuansijia.jpg" width="100" title="Sijia Yuan" align="right" /></p>
+
+[**Sijia Yuan**](https://) **(袁思佳)**
+
+Email: sijiayuanlucas@163.com
+
+Research interests: Bird diversity, species coexistence, island biogeography
+
 ---
 
 ## Master's Students
-
-<p><img src="http://sixf.org/files/images/people/kangyi.jpg" width="100" title="Yi Kang" align="right" /></p>
-
-[**Yi Kang**](https://www.researchgate.net/profile/Kang_Yi7) **(康熠)**
-
-Email: yi_kang0809(at)163.com
-
-Research interests: Biodiversity, bird diversity, island Biogeography
-
-
-<p><img src="http://sixf.org/files/images/people/weiguangpeng.jpg" width="100" title="Guangpeng Wei" align="right" /></p>
-
-[**Guangpeng Wei**](https://www.researchgate.net/profile/Guangpeng_Wei) **(魏广鹏)**
-
-Email: guangpengwei(at)qq.com
-
-Research interests: Fragmentation, biodiversity and conservation, elevation
-
 
 <p><img src="http://sixf.org/files/images/people/wangrui.jpg" width="100" title="Rui Wang" align="right" /></p>
 
@@ -146,22 +137,46 @@ Research interests: Biodiversity and conservation, bird diversity, island biogeo
 
 Email: shenyao(at)stu.ecnu.edu.cn
 
-Research interests: Bird diversity, conservation biology, urban ecology
+Research interests: Bird diversity, conservation biology, urban ecology, SLOSS debate
+
+
+<p><img src="http://sixf.org/files/images/people/chenqianyuan.jpg" width="100" title="Qianyuan Chen" align="right" /></p>
+
+[**Qianyuan Chen**](https://www.researchgate.net/profile/Qianyuan-Chen) **(陈钱缘)**
+
+Email: chen915s@163.com
+
+Research interests: Bird diversity, interspecific relationship, behavioral ecology
+
+
+<p><img src="http://sixf.org/files/images/people/zhuyingcan.jpg" width="100" title="Yingcan Zhu" align="right" /></p>
+
+[**Yingcan Zhu**](https://www.researchgate.net/profile/Yingcan-Zhu-2) **(朱颖璨)**
+
+Email: zhuyingcan0707@163.com
+
+Research interests: Urban ecology, biodiversity, ecosystem services
 
 ---
 
 ## Undergraduate Students
 
-Guzi Ao, Shihao Yin, Yaping Liu: Bird diversity, water area, urban park
-
 Yuxin Su, Ruoxi Wu: Free-ranging cats and dogs, species distribution, urban habitat
+
+Enping Cai, Suting Ge, Zhaoyi Xiang, Ximao Wang, Zhou Yang, Meihui Zhang, Manshu Li: Nest selection, bird breeding, human disturbance
 
 ---
 
 ## Lab Alumni
 
-[**Duorun Wang**](https://www.researchgate.net/profile/Duorun_Wang) **(王铎润)**, Master's thesis in 2022: The Negative Target Effect of Bird Diversity Distribution in the Zhoushan Archipelago, China
+Yi Kang, Guangpei Wei (2020–2023, Master's Student)
 
-Shupei Tang (Research Assistant; 2019–2020)
+Duorun Wang (2019–2022, Master's Student)
 
-Undergraduate Students: Xinyi Liu, Yao Shen, Jiaxin Li; Zhengyi Liu, Luhang Jiang, Dana Yi
+Shupei Tang (2019–2020, Research Assistant)
+
+**Undergraduate Students**
+
+Xinyi Liu, Yao Shen, Jiaxin Li; Zhengyi Liu, Luhang Jiang, Dana Yi (Class of 2022)
+
+Guzi Ao, Shihao Yin, Yaping Liu (Class of 2023)
