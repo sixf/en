@@ -8,11 +8,17 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-62). Zhu C<sup>#</sup>, Li W<sup>#</sup>, Campos-Arceiz A, Dalsgaard B, Ren P, Wang D, Zhang X, Sun M, Si Q, Kang Y, Ding P\*, <u>Si X</u>\*. (2023) The reliability of regional ecological knowledge to build local interaction networks: a test using seed-dispersal networks across land-bridge islands. **Proceedings of the Royal Society B: Biological Sciences**, accepted.
+65). Zhang X, Dalsgaard B, Staab M, Zhu C, Zhao Y, Gonçalves F, Ren R, Cai C, Qiao G, Ding P\*, <u>Si X</u>\*. (2023) Habitat fragmentation increases specialization of multi-trophic interactions by high species turnover. **Proceedings of the Royal Society B: Biological Sciences**, 290, 20231372.
 
-61). Liang J<sup>#</sup>, Ding Z<sup>#</sup>, Li C, Hu Y, Zhou Z, Lie G, Hu H\*, <u>Si X</u>\*. (2023) Patterns and drivers of avian taxonomic and phylogenetic beta diversity in China vary across geographical backgrounds and dispersal abilities. **Zoological Research**, accepted.
+64). Li W<sup>#</sup>, Zhu C<sup>#</sup>, Grass I, Han P, Shen Y, Ding P, <u>Si X</u>\*. (2023) Widespread arboreal foraging behavior in ground-dwelling birds and the urgency of life-history studies. **Biological Conservation**, 286, 110320.
 
-60). Wang P, Li S\*, Yang X, Si X, Li W, Shu W, Jiang L. (2023) Spatial scaling of soil microbial co-occurrence networks in a fragmented landscape. **mLife**, in press. doi: 10.1002/mlf2.12073.
+63). Liu X, Zhao Y, Zeng D, Yang Y, Li W, Kang Y, Wei G, Yuan X, Bo S, <u>Si X</u>\*. (2023) Characterizing bird species for achieving the win-wins of conserving biodiversity and enhancing regulating ecosystem services in urban green spaces. **Urban Forestry &amp; Urban Greening**, 87, 128064.
+
+62). Zhu C<sup>#</sup>, Li W<sup>#</sup>, Campos-Arceiz A, Dalsgaard B, Ren P, Wang D, Zhang X, Sun M, Si Q, Kang Y, Ding P\*, <u>Si X</u>\*. (2023) The reliability of regional ecological knowledge to build local interaction networks: a test using seed-dispersal networks across land-bridge islands. **Proceedings of the Royal Society B: Biological Sciences**, 290, 20231221.
+
+61). Liang J<sup>#</sup>, Ding Z<sup>#</sup>, Li C, Hu Y, Zhou Z, Lie G, Hu H\*, <u>Si X</u>\*. (2023) Patterns and drivers of avian taxonomic and phylogenetic beta diversity in China vary across geographical backgrounds and dispersal abilities. **Zoological Research**, in press.
+
+60). Wang P, Li S\*, Yang X, Si X, Li W, Shu W, Jiang L. (2023) Spatial scaling of soil microbial co-occurrence networks in a fragmented landscape. **mLife**, 2, 209–215.
 
 59). Matthews TJ*, Wayman JP, Whittaker RJ, Cardoso P, Hume JP, Sayol F, Proios K, Martin TE, Baiser B, Borges PAV, Kubota Y, dos Anjos L, Tobias JA, Soares FC, <u>Si X</u>, Ding P, Mendenhall CD, Sin YCK, Rheindt FE, Triantis KA, Guilhaumon F, Watson DM, Brotons L, Battisti C, Chu O, Rigal F. (2023) A global analysis of avian island diversity–area relationships in the Anthropocene. **Ecology Letters**, 26, 965–982.
 

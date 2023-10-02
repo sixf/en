@@ -161,22 +161,22 @@ Research interests: Urban ecology, biodiversity, ecosystem services
 
 ## Undergraduate Students
 
-Yuxin Su, Ruoxi Wu: Free-ranging cats and dogs, species distribution, urban habitat
-
 Enping Cai, Suting Ge, Zhaoyi Xiang, Ximao Wang, Zhou Yang, Meihui Zhang, Manshu Li: Nest selection, bird breeding, human disturbance
+
+Wenhao Xu, Yang Zhou; Yiqian Tang, Xinyue Liang: bird behavior, bird diversity
 
 ---
 
 ## Lab Alumni
 
-Yi Kang, Guangpei Wei (2020–2023, Master's Student)
+**Research Assistant**
 
-Duorun Wang (2019–2022, Master's Student)
+Shupei Tang (2019–2020)
 
-Shupei Tang (2019–2020, Research Assistant)
+**Master's Student**
+
+Duorun Wang (2019–2022); Yi Kang, Guangpei Wei (2020–2023)
 
 **Undergraduate Students**
 
-Xinyi Liu, Yao Shen, Jiaxin Li; Zhengyi Liu, Luhang Jiang, Dana Yi (Class of 2022)
-
-Guzi Ao, Shihao Yin, Yaping Liu (Class of 2023)
+Xinyi Liu, Yao Shen, Jiaxin Li (2020); Zhengyi Liu, Luhang Jiang, Dana Yi (2020); Guzi Ao, Shihao Yin, Yaping Liu (2021); Yuxin Su, Ruoxi Wu (2022)

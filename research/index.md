@@ -31,17 +31,19 @@ Beta diversity, biodiversity conservation, biotic homogenization, camera trap, c
 
 ## Selected Grants
 
-2021–2024 Effects of imperfect detection on estimates of bird diversity: a long-term case study in the Thousand Island Lake. National Natural Science Foundation of China
+2024–2027 Temporal dynamics and maintenance mechanisms of plant-frugivorous bird networks in fragmented habitats. National Natural Science Foundation of China (32371590)
 
-2019–2022 Effects of urbanization on animal diversity and ecosystem functioning on Chongming Islands. Shanghai Rising-Star Program
+2023–2026 Interactions between land-use change and island biogeography as drivers of animal community assembly in the Zhoushan and Caribbean Archipelagos. National Natural Science Foundation of China (32311520284)
 
-2019–2022 Plant-animal mutualistic networks in fragmented habitats of the Thousand Island Lake. National Natural Science Foundation of China
+2021–2024 Effects of imperfect detection on estimates of bird diversity: a long-term case study in the Thousand Island Lake. National Natural Science Foundation of China (32071545)
 
-2018–2025 Startup Fund of Zijiang Young Scholar Award Program, East China Normal University
+2019–2022 Plant-animal mutualistic networks in fragmented habitats of the Thousand Island Lake. National Natural Science Foundation of China (31872210)
 
-2016–2018 Taxonomic and functional beta diversity of bird and mammal communities in fragmented habitats of the Thousand Island Lake. National Natural Science Foundation of China
+2016–2018 Taxonomic and functional beta diversity of bird and mammal communities in fragmented habitats of the Thousand Island Lake. National Natural Science Foundation of China (31500453)
 
 ## Selected Awards
+
+2022 IOU Fellow, International Ornithologists' Union
 
 2020 Professor of Special Appointment (Eastern Scholar), Shanghai Institutions of Higher Learning
 
@@ -51,22 +53,20 @@ Beta diversity, biodiversity conservation, biotic homogenization, camera trap, c
 
 2017  Cheng Tso-Hsin Young Ornithologist Prize, Cheng Tso-Hsin Trust for Ornithology
 
-2015  Outstanding Graduate Student Award in Ornithology, China Ornithological Society
-
-2013  Gold Award of the 9th Kingfisher Forum, China Ornithological Society
-
 ## Professional Services and Affiliations
 
 Editor of [*Biological Conservation*](https://www.journals.elsevier.com/biological-conservation) (2021–present)
 
+Associate Editor-in-Chief of [*Zoological Research: Diversity and Conservation*](http://www.zrdc.ac.cn) (2023–present)
+
 Associate Editor of [*Avian Research*](https://avianres.biomedcentral.com) (2018–present)
 
 Associate Editor of [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) (2017–present)
+
+Associate Editor of [*Methods in Ecology and Evolution*](https://besjournals.onlinelibrary.wiley.com/journal/2041210X) (2023–present)
 
 Associate Editor of [*Wildlife Letters*](https://onlinelibrary.wiley.com/page/journal/28325869/homepage/editorial-board) (2022–present)
 
 Young Editorial Member of [*Zoological Research*](https://www.zoores.ac.cn/news/editorialboard.htm) (2022–present)
 
 Youth Editor of [*Integrative Zoology*](https://onlinelibrary.wiley.com/journal/17494877) (2022–present)
-
-Reviewer for journals: see details in his [Publons](https://publons.com/author/1198034/xingfeng-si#profile) profile.
