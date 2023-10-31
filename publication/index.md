@@ -8,6 +8,12 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
+68). Yang Y, Zhao Y, Stidham TA, Liu X, Zhu X, Li B, Zhang L, Ni X, <u>Si X</u>\*. (2023) Uncovering widespread Anthropocene dietary shifts in Chinese large mammalian herbivores. **Ecology Letters**, in press.
+
+67). Martínez AE, Zhou L, <u>Si X</u>\*, Ding P, Goodale E\*. (2023) Island biogeography of mixed-species bird flocks: A gregarious nuclear species influences island area effects. **Journal of Biogeography**, in press.
+
+66). Zhu C, Dalsgaard B, Li W, Gonçalves F, Vollstädt MGR, Ren P, Zhang X, Shao J, Ding P\*, <u>Si X</u>\*. (2023) Generalist and topologically central avian frugivores promote plant invasion unequally across land-bridge islands. **Ecology**, in press.
+
 65). Zhang X, Dalsgaard B, Staab M, Zhu C, Zhao Y, Gonçalves F, Ren R, Cai C, Qiao G, Ding P\*, <u>Si X</u>\*. (2023) Habitat fragmentation increases specialization of multi-trophic interactions by high species turnover. **Proceedings of the Royal Society B: Biological Sciences**, 290, 20231372.
 
 64). Li W<sup>#</sup>, Zhu C<sup>#</sup>, Grass I, Han P, Shen Y, Ding P, <u>Si X</u>\*. (2023) Widespread arboreal foraging behavior in ground-dwelling birds and the urgency of life-history studies. **Biological Conservation**, 286, 110320.
