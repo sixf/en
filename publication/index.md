@@ -8,6 +8,8 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
+68). Zhao Y, Mendenhall CD, Matthews TJ, Wang D, Li W, Liu X, Tang S, Han P, Wei G, Kang Y, Wu C, Wang R, Zeng D, Frishkoff LO, <u>Si X</u>\*. (2024) Land-use change interacts with island biogeography to alter bird community assembly. **Proceedings of the Royal Society B: Biological Sciences**, in press.
+
 68). Yang Y, Zhao Y, Stidham TA, Liu X, Zhu X, Li B, Zhang L, Ni X, <u>Si X</u>\*. (2023) Uncovering widespread Anthropocene dietary shifts in Chinese large mammalian herbivores. **Ecology Letters**, in press.
 
 67). Martínez AE, Zhou L, <u>Si X</u>\*, Ding P, Goodale E\*. (2023) Island biogeography of mixed-species bird flocks: A gregarious nuclear species influences island area effects. **Journal of Biogeography**, in press.
