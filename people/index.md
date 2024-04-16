@@ -56,15 +56,6 @@ Email: wande_li(at)163.com
 Research interests: Ornithology, plant-animal interaction, ecological network, community ecology
 
 
-<p><img src="http://sixf.org/files/images/people/liuxiangxu.jpg" width="100" title="Xiangxu Liu" align="right" /></p>
-
-[**Xiangxu Liu**](https://www.researchgate.net/profile/Xiangxu_Liu2) **(刘巷序)**
-
-Email: liuxiangxu2008a(at)163.com
-
-Research interests: Urban ecology, bird diversity and distribution, ecosystem services
-
-
 <p><img src="http://sixf.org/files/images/people/wangyue.jpg" width="100" title="Yue Wang" align="right" /></p>
 
 [**Yue Wang**](https://www.researchgate.net/profile/Wang-Yue-109) **(王月)**
@@ -85,11 +76,29 @@ Research interests: Community ecology, soundscape ecology, animal adaptation to 
 
 <p><img src="http://sixf.org/files/images/people/yuansijia.jpg" width="100" title="Sijia Yuan" align="right" /></p>
 
-[**Sijia Yuan**](https://) **(袁思佳)**
+[**Sijia Yuan**](https://www.researchgate.net/profile/Sijia-Yuan-5) **(袁思佳)**
 
 Email: sijiayuanlucas@163.com
 
 Research interests: Bird diversity, species coexistence, island biogeography
+
+
+<p><img src="http://sixf.org/files/images/people/shenyao.jpg" width="100" title="Yao Shen" align="right" /></p>
+
+[**Yao Shen**](https://www.researchgate.net/profile/Yao-Shen-15) **(沈瑶)**
+
+Email: shenyao(at)stu.ecnu.edu.cn
+
+Research interests: Bird diversity, conservation biology, urban ecology, SLOSS debate
+
+
+<p><img src="http://sixf.org/files/images/people/zhouxiaotao.jpg" width="100" title="Xiaotao Zhou" align="right" /></p>
+
+[**Xiaotao Zhou**](https://www.researchgate.net/profile/Xiaotao-Zhou-3) **(周晓韬)**
+
+Email: zhouxiaotao226@163.com
+
+Research interests: Deep learning, bioacoustics, passive acoustic monitoring
 
 ---
 
@@ -131,15 +140,6 @@ Email: luwei0712(at)qq.com
 Research interests: Biodiversity and conservation, bird diversity, island biogeography
 
 
-<p><img src="http://sixf.org/files/images/people/shenyao.jpg" width="100" title="Yao Shen" align="right" /></p>
-
-[**Yao Shen**](https://www.researchgate.net/profile/Yao-Shen-15) **(沈瑶)**
-
-Email: shenyao(at)stu.ecnu.edu.cn
-
-Research interests: Bird diversity, conservation biology, urban ecology, SLOSS debate
-
-
 <p><img src="http://sixf.org/files/images/people/chenqianyuan.jpg" width="100" title="Qianyuan Chen" align="right" /></p>
 
 [**Qianyuan Chen**](https://www.researchgate.net/profile/Qianyuan-Chen) **(陈钱缘)**
@@ -157,6 +157,24 @@ Email: zhuyingcan0707@163.com
 
 Research interests: Urban ecology, biodiversity, ecosystem services
 
+
+<p><img src="http://sixf.org/files/images/people/dusiyu.jpg" width="100" title="Siyu Du" align="right" /></p>
+
+[**Siyu Du**](https://www.researchgate.net/profile/Siyu-Du-13) **(杜思宇)**
+
+Email: sydu0715@163.com
+
+Research interests: Island biogeography, bird diversity, biodiversity
+
+
+<p><img src="http://sixf.org/files/images/people/gongshifan.jpg" width="100" title="Shifan Gong" align="right" /></p>
+
+[**Shifan Gong**](https://www.researchgate.net/profile/Shifan-Gong) **(龚诗凡)**
+
+Email: gongshifan2020@163.com
+
+Research interests: Behavioral ecology, bird diversity, conservation biology
+
 ---
 
 ## Undergraduate Students
@@ -169,14 +187,18 @@ Wenhao Xu, Yang Zhou; Yiqian Tang, Xinyue Liang: bird behavior, bird diversity
 
 ## Lab Alumni
 
+**PhD Students**
+
+Xiangxu Liu (2019–2023)
+
+**Master's Students**
+
+Duorun Wang (2019–2022), Yi Kang (2020–2023), Guangpei Wei (2020–2023)
+
 **Research Assistant**
 
 Shupei Tang (2019–2020)
 
-**Master's Student**
-
-Duorun Wang (2019–2022); Yi Kang, Guangpei Wei (2020–2023)
-
 **Undergraduate Students**
 
-Xinyi Liu, Yao Shen, Jiaxin Li (2020); Zhengyi Liu, Luhang Jiang, Dana Yi (2020); Guzi Ao, Shihao Yin, Yaping Liu (2021); Yuxin Su, Ruoxi Wu (2022)
+Xinyi Liu, Yao Shen, Jiaxin Li; Zhengyi Liu, Luhang Jiang, Dana Yi; Guzi Ao, Shihao Yin, Yaping Liu; Yuxin Su, Ruoxi Wu

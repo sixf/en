@@ -67,6 +67,6 @@ Associate Editor of [*Methods in Ecology and Evolution*](https://besjournals.onl
 
 Associate Editor of [*Wildlife Letters*](https://onlinelibrary.wiley.com/page/journal/28325869/homepage/editorial-board) (2022–present)
 
-Young Editorial Member of [*Zoological Research*](https://www.zoores.ac.cn/news/editorialboard.htm) (2022–present)
+Editorial Member of [*Zoological Research*](https://www.zoores.ac.cn/news/editorialboard.htm) (2022–present)
 
 Youth Editor of [*Integrative Zoology*](https://onlinelibrary.wiley.com/journal/17494877) (2022–present)

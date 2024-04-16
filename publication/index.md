@@ -8,13 +8,15 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-69). Zhao Y, Mendenhall CD, Matthews TJ, Wang D, Li W, Liu X, Tang S, Han P, Wei G, Kang Y, Wu C, Wang R, Zeng D, Frishkoff LO, <u>Si X</u>\*. (2024) Land-use change interacts with island biogeography to alter bird community assembly. **Proceedings of the Royal Society B: Biological Sciences**, in press.
+70). Ding Z, Liang J, Yang L, Wei C, Hu H\*, <u>Si X</u>\*. (2024) Deterministic processes drive turnover-dominated beta diversity of breeding birds along the central Himalayan elevation gradient. **Avian Research**, 15, 100170.
 
-68). Yang Y, Zhao Y, Stidham TA, Liu X, Zhu X, Li B, Zhang L, Ni X, <u>Si X</u>\*. (2023) Uncovering widespread Anthropocene dietary shifts in Chinese large mammalian herbivores. **Ecology Letters**, in press.
+69). Zhao Y, Mendenhall CD, Matthews TJ, Wang D, Li W, Liu X, Tang S, Han P, Wei G, Kang Y, Wu C, Wang R, Zeng D, Frishkoff LO, <u>Si X</u>\*. (2024) Land-use change interacts with island biogeography to alter bird community assembly. **Proceedings of the Royal Society B: Biological Sciences**, 291, 20232245.
 
-67). Martínez AE, Zhou L, <u>Si X</u>\*, Ding P, Goodale E\*. (2023) Island biogeography of mixed-species bird flocks: A gregarious nuclear species influences island area effects. **Journal of Biogeography**, in press.
+68). Yang Y, Zhao Y, Stidham TA, Liu X, Zhu X, Li B, Zhang L, Ni X, <u>Si X</u>\*. (2024) Uncovering widespread Anthropocene dietary shifts in Chinese large mammalian herbivores. **Ecology Letters**, 27, e14343. [Cover article]
 
-66). Zhu C, Dalsgaard B, Li W, Gonçalves F, Vollstädt MGR, Ren P, Zhang X, Shao J, Ding P\*, <u>Si X</u>\*. (2023) Generalist and topologically central avian frugivores promote plant invasion unequally across land-bridge islands. **Ecology**, in press.
+67). Martínez AE, Zhou L, <u>Si X</u>\*, Ding P, Goodale E\*. (2024) Island biogeography of mixed-species bird flocks: A gregarious nuclear species influences island area effects. **Journal of Biogeography**, in press.
+
+66). Zhu C, Dalsgaard B, Li W, Gonçalves F, Vollstädt MGR, Ren P, Zhang X, Shao J, Ding P\*, <u>Si X</u>\*. (2024) Generalist and topologically central avian frugivores promote plant invasion unequally across land-bridge islands. **Ecology**, 105, e4216.
 
 65). Zhang X, Dalsgaard B, Staab M, Zhu C, Zhao Y, Gonçalves F, Ren R, Cai C, Qiao G, Ding P\*, <u>Si X</u>\*. (2023) Habitat fragmentation increases specialization of multi-trophic interactions by high species turnover. **Proceedings of the Royal Society B: Biological Sciences**, 290, 20231372.
 
@@ -24,7 +26,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 62). Zhu C<sup>#</sup>, Li W<sup>#</sup>, Campos-Arceiz A, Dalsgaard B, Ren P, Wang D, Zhang X, Sun M, Si Q, Kang Y, Ding P\*, <u>Si X</u>\*. (2023) The reliability of regional ecological knowledge to build local interaction networks: a test using seed-dispersal networks across land-bridge islands. **Proceedings of the Royal Society B: Biological Sciences**, 290, 20231221.
 
-61). Liang J<sup>#</sup>, Ding Z<sup>#</sup>, Li C, Hu Y, Zhou Z, Lie G, Hu H\*, <u>Si X</u>\*. (2023) Patterns and drivers of avian taxonomic and phylogenetic beta diversity in China vary across geographical backgrounds and dispersal abilities. **Zoological Research**, in press.
+61). Liang J<sup>#</sup>, Ding Z<sup>#</sup>, Li C, Hu Y, Zhou Z, Lie G, Hu H\*, <u>Si X</u>\*. (2024) Patterns and drivers of avian taxonomic and phylogenetic beta diversity in China vary across geographical backgrounds and dispersal abilities. **Zoological Research**, 45, 125–135.
 
 60). Wang P, Li S\*, Yang X, Si X, Li W, Shu W, Jiang L. (2023) Spatial scaling of soil microbial co-occurrence networks in a fragmented landscape. **mLife**, 2, 209–215.
 
@@ -36,7 +38,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 56). Jin T, <u>Si X</u>, Liu J, Ding P*. (2023) An integrated animal tracking technology combining a GPS tracking system with a UAV. **Methods in Ecology and Evolution**, 14, 505–511.
 
-55). Han P, Zhao Y, Kang Y, Ding P, <u>Si X</u>*. (2023) Island biogeography of soundscapes: island area shapes spatial patterns of avian acoustic diversity. **Journal of Biogeography**, in press. doi: 10.1111/jbi.14551.
+55). Han P, Zhao Y, Kang Y, Ding P, <u>Si X</u>*. (2024) Island biogeography of soundscapes: island area shapes spatial patterns of avian acoustic diversity. **Journal of Biogeography**, 51, 511–521.
 
 54). Wang D<sup>#</sup>, Zhao Y<sup>#</sup>, Tang S, Liu X, Li W, Han P, Zeng D, Yang Y, Wei G, Kang Y, <u>Si X</u>\*. (2023) Nearby large islands diminish biodiversity of the focal island by a negative target effect. **Journal of Animal Ecology**, 92, 492–502.
 
