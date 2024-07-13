@@ -8,6 +8,16 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
+75). Liu J, Tingley MW, Wu Q, Ren P, Jin T, Ding P\*, <u>Si X</u>\*. (2024) Habitat fragmentation mediates the mechanisms underlying long-term climate-driven thermophilization in birds. **eLife**, 13, RP98056.
+
+74). Peng L, Liu Q, Wang Q, <u>Si X</u>, Niu H, Zhang H*. (2024) Effects of urbanization and vegetations on bird diversity in a megacity of central China. **Biological Conservation**, in press.
+
+73). Li M, Wu X, Zhou Y, Long S, Zhang M, Gu H, <u>Si X</u>, Yan E, Zhang J*. (2024) Elevational pattern of species range size of vascular plants in Changbai Mountain: A test of Rapoport’s rule. **Chinese Journal of Applied Ecology**, in press.
+
+72). <u>Si X</u>\*, Jin T, Li W, Ren P, Wu Q, Zeng D, Zhang X, Zhao Y, Zhu C, Ding P\*. (2024) TIL20: A review of island biogeography and habitat fragmentation studies on subtropical reservoir islands of Thousand Island Lake, China. **Zoological Research: Diversity and Conservation**, 1, 89–105.
+
+71). Wu Q, Zhang X, Yang Y, Ma Y, Zhou Y, Xu D, <u>Si X</u>, Wang J\*. (2024) Spatio-temporal changes in biodiversity of epiphyllous liverworts in Qingyuan Area of Qianjiangyuan-Baishanzu National Park, Zhejiang Province. **Biodiversity Science**, 32, 2024010.
+
 70). Ding Z, Liang J, Yang L, Wei C, Hu H\*, <u>Si X</u>\*. (2024) Deterministic processes drive turnover-dominated beta diversity of breeding birds along the central Himalayan elevation gradient. **Avian Research**, 15, 100170.
 
 69). Zhao Y, Mendenhall CD, Matthews TJ, Wang D, Li W, Liu X, Tang S, Han P, Wei G, Kang Y, Wu C, Wang R, Zeng D, Frishkoff LO, <u>Si X</u>\*. (2024) Land-use change interacts with island biogeography to alter bird community assembly. **Proceedings of the Royal Society B: Biological Sciences**, 291, 20232245.
@@ -16,7 +26,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 67). Martínez AE, Zhou L, <u>Si X</u>\*, Ding P, Goodale E\*. (2024) Island biogeography of mixed-species bird flocks: A gregarious nuclear species influences island area effects. **Journal of Biogeography**, in press.
 
-66). Zhu C, Dalsgaard B, Li W, Gonçalves F, Vollstädt MGR, Ren P, Zhang X, Shao J, Ding P\*, <u>Si X</u>\*. (2024) Generalist and topologically central avian frugivores promote plant invasion unequally across land-bridge islands. **Ecology**, 105, e4216.
+66). Zhu C, Dalsgaard B, Li W, Gonçalves F, Vollstädt MGR, Ren P, Zhang X, Shao J, Ding P, <u>Si X</u>\*. (2024) Generalist and topologically central avian frugivores promote plant invasion unequally across land-bridge islands. **Ecology**, 105, e4216.
 
 65). Zhang X, Dalsgaard B, Staab M, Zhu C, Zhao Y, Gonçalves F, Ren R, Cai C, Qiao G, Ding P\*, <u>Si X</u>\*. (2023) Habitat fragmentation increases specialization of multi-trophic interactions by high species turnover. **Proceedings of the Royal Society B: Biological Sciences**, 290, 20231372.
 
