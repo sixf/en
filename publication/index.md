@@ -14,7 +14,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 73). Li M, Wu X, Zhou Y, Long S, Zhang M, Gu H, <u>Si X</u>, Yan E, Zhang J*. (2024) Elevational pattern of species range size of vascular plants in Changbai Mountain: A test of Rapoport’s rule. **Chinese Journal of Applied Ecology**, in press.
 
-72). <u>Si X</u>\*, Jin T, Li W, Ren P, Wu Q, Zeng D, Zhang X, Zhao Y, Zhu C, Ding P\*. (2024) TIL20: A review of island biogeography and habitat fragmentation studies on subtropical reservoir islands of Thousand Island Lake, China. **Zoological Research: Diversity and Conservation**, 1, 89–105.
+72). <u>Si X</u>\*, Jin T, Li W, Ren P, Wu Q, Zeng D, Zhang X, Zhao Y, Zhu C, Ding P\*. (2024) TIL20: A review of island biogeography and habitat fragmentation studies on subtropical reservoir islands of Thousand Island Lake, China. **Zoological Research: Diversity and Conservation**, 1, 89–105. [Cover article]
 
 71). Wu Q, Zhang X, Yang Y, Ma Y, Zhou Y, Xu D, <u>Si X</u>, Wang J\*. (2024) Spatio-temporal changes in biodiversity of epiphyllous liverworts in Qingyuan Area of Qianjiangyuan-Baishanzu National Park, Zhejiang Province. **Biodiversity Science**, 32, 2024010.
 
