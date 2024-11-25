@@ -8,11 +8,15 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-75). Liu J, Tingley MW, Wu Q, Ren P, Jin T, Ding P\*, <u>Si X</u>\*. (2024) Habitat fragmentation mediates the mechanisms underlying long-term climate-driven thermophilization in birds. **eLife**, 13, RP98056.
+77). Liu J, Tingley MW, Wu Q, Ren P, Jin T, Ding P\*, <u>Si X</u>\*. (2024) Habitat fragmentation mediates the mechanisms underlying long-term climate-driven thermophilization in birds. **eLife**, 13, RP98056.
 
-74). Peng L, Liu Q, Wang Q, <u>Si X</u>, Niu H, Zhang H*. (2024) Effects of urbanization and vegetations on bird diversity in a megacity of central China. **Biological Conservation**, in press.
+76). Liu C, Luo Y, Yan Y, Yang Y, Zeng D, Zhao Y, <u>Si X</u>*. (2024) The formation, maintenance, and loss of island biodiversity. **Hereditas (Beijing)**, in press. doi: 10.16288/j.yczz.24-223. [Invited article]
 
-73). Li M, Wu X, Zhou Y, Long S, Zhang M, Gu H, <u>Si X</u>, Yan E, Zhang J*. (2024) Elevational pattern of species range size of vascular plants in Changbai Mountain: A test of Rapoport’s rule. **Chinese Journal of Applied Ecology**, in press.
+75). Li M, Wu X, Zhou Y, Long S, Zhang M, Gu H, <u>Si X</u>, Yan E, Zhang J*. (2024) Elevational pattern of species range size of vascular plants in Changbai Mountain: A test of Rapoport’s rule. **Chinese Journal of Applied Ecology**, in press. doi: 10.13287/j. 1001-9332.202400.000.
+
+74). Zhang D, Mao R, Zhou Q, Wang Y, <u>Si X</u>, Zhao C, Zhang L*. (2024) Impacts of forest restoration on multifaceted bird diversity and community assembly in the Loess Plateau of China. **Forest Ecology and Management**, 573, 122350.
+
+73). Peng L, Liu Q, Wang Q, <u>Si X</u>, Niu H, Zhang H*. (2024) Effects of urbanization and vegetations on bird diversity in a megacity of central China. **Biological Conservation**, 297, 110718.
 
 72). <u>Si X</u>\*, Jin T, Li W, Ren P, Wu Q, Zeng D, Zhang X, Zhao Y, Zhu C, Ding P\*. (2024) TIL20: A review of island biogeography and habitat fragmentation studies on subtropical reservoir islands of Thousand Island Lake, China. **Zoological Research: Diversity and Conservation**, 1, 89–105. [Cover article]
 

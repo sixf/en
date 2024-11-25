@@ -15,6 +15,17 @@ Research interests: Animal ecology, habitat fragmentation, island biogeography, 
 
 ---
 
+## Research Associate Professor
+
+<p><img src="http://sixf.org/files/images/people/yangyangheshan.jpg" width="100" title="Yangheshan Yang" align="right" /></p>
+
+[**Dr. Yangheshan Yang**](https://scholar.google.com/citations?user=XozwJgEAAAAJ) **(杨阳河山)**
+
+Email: yhsyang(at)des.ecnu.edu.cn
+
+Research interests: Community ecology, plant-animal interaction, food web, paleozoology
+
+
 ## Postdoctoral Fellows
 
 <p><img src="http://sixf.org/files/images/people/zhaoyuhao.jpg" width="100" title="Yuhao Zhao" align="right" /></p>
@@ -26,35 +37,18 @@ Email: yhzhao(at)des.ecnu.edu.cn
 Research interests: Community ecology, island biogeography, myrmecology, conservation biology
 
 
-<p><img src="http://sixf.org/files/images/people/yangyangheshan.jpg" width="100" title="Yangheshan Yang" align="right" /></p>
-
-[**Dr. Yangheshan Yang**](https://scholar.google.com/citations?user=XozwJgEAAAAJ) **(杨阳河山)**
-
-Email: yhsyang(at)des.ecnu.edu.cn
-
-Research interests: Community ecology, plant-animal interaction, food web, paleozoology
-
-
-<p><img src="http://sixf.org/files/images/people/zengdi.jpg" width="100" title="Di Zeng" align="right" /></p>
-
-[**Dr. Di Zeng**](https://www.researchgate.net/profile/Di-Zeng-8) **(曾頔)**
-
-Email: dzeng(at)des.ecnu.edu.cn
-
-Research interests: biodiversity, defaunation, ecological networks in fragmented habitats, rodent seed dispersal
-
----
-
-## PhD Students
-
 <p><img src="http://sixf.org/files/images/people/liwande.png" width="100" title="Wande Li" align="right" /></p>
 
-[**Wande Li**](https://www.researchgate.net/profile/Wande_Li) **(李万德)**
+[**Dr. Wande Li**](https://www.researchgate.net/profile/Wande_Li) **(李万德)**
 
 Email: wande_li(at)163.com
 
 Research interests: Ornithology, plant-animal interaction, ecological network, community ecology
 
+
+---
+
+## PhD Students
 
 <p><img src="http://sixf.org/files/images/people/wangyue.jpg" width="100" title="Yue Wang" align="right" /></p>
 
@@ -72,6 +66,15 @@ Research interests: biodiversity conservation, animal ecology, biogeography
 Email: Peng.han_ecology(at)outlook.com
 
 Research interests: Community ecology, soundscape ecology, animal adaptation to urbanization, conservation biology
+
+
+<p><img src="http://sixf.org/files/images/people/yinlu.jpg" width="100" title="Lu Yin" align="right" /></p>
+
+[**Yin Lu**](https://www.researchgate.net/profile/Lu-Yin-36) **(尹路)**
+
+Email: artastkl@outlook.com
+
+Research interests: Community ecology, ecological network, bird diversity, island biogeography
 
 
 <p><img src="http://sixf.org/files/images/people/yuansijia.jpg" width="100" title="Sijia Yuan" align="right" /></p>
@@ -103,24 +106,6 @@ Research interests: Deep learning, bioacoustics, passive acoustic monitoring
 ---
 
 ## Master's Students
-
-<p><img src="http://sixf.org/files/images/people/wangrui.jpg" width="100" title="Rui Wang" align="right" /></p>
-
-[**Rui Wang**](https://www.researchgate.net/profile/Rui-Wang-443) **(王蕊)**
-
-Email: maliaoyaoyao(at)163.com
-
-Research interests: Biodiversity, behavioral ecology, island biogeography
-
-
-<p><img src="http://sixf.org/files/images/people/wuchenxiao.jpg" width="100" title="Chenxiao Wu" align="right" /></p>
-
-[**Chenxiao Wu**](https://www.researchgate.net/profile/Chenxiao-Wu-3) **(武辰晓)**
-
-Email: wuchenxiao2021(at)qq.com
-
-Research interests: Community Ecology, island Biogeography, myrmecology
-
 
 <p><img src="http://sixf.org/files/images/people/lijiaxin.jpg" width="100" title="Jiaxin Li" align="right" /></p>
 
@@ -187,13 +172,17 @@ Wenhao Xu, Yang Zhou; Yiqian Tang, Xinyue Liang: bird behavior, bird diversity
 
 ## Lab Alumni
 
+**Postdoctoral Fellows**
+
+Di Zeng (2021–2024)
+
 **PhD Students**
 
 Xiangxu Liu (2019–2023)
 
 **Master's Students**
 
-Duorun Wang (2019–2022), Yi Kang (2020–2023), Guangpei Wei (2020–2023)
+Duorun Wang (2019–2022), Yi Kang (2020–2023), Guangpei Wei (2020–2023), Rui Wang (2021–2024), Chenxiao Wu (2021–2024)
 
 **Research Assistant**
 
