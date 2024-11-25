@@ -26,6 +26,7 @@ Email: yhsyang(at)des.ecnu.edu.cn
 Research interests: Community ecology, plant-animal interaction, food web, paleozoology
 
 
+
 ## Postdoctoral Fellows
 
 <p><img src="http://sixf.org/files/images/people/zhaoyuhao.jpg" width="100" title="Yuhao Zhao" align="right" /></p>
@@ -174,11 +175,11 @@ Wenhao Xu, Yang Zhou; Yiqian Tang, Xinyue Liang: bird behavior, bird diversity
 
 **Postdoctoral Fellows**
 
-Di Zeng (2021–2024)
+Yangheshan Yang (2021–2023), Di Zeng (2021–2024)
 
 **PhD Students**
 
-Xiangxu Liu (2019–2023)
+Xiangxu Liu (2019–2023), Wande Li (2019–2024)
 
 **Master's Students**
 
