@@ -33,7 +33,7 @@ Research interests: Community ecology, plant-animal interaction, food web, paleo
 
 [**Dr. Yuhao Zhao**](https://www.researchgate.net/profile/Yuhao_Zhao) **(赵郁豪)**
 
-Email: yhzhao(at)des.ecnu.edu.cn
+Email: yhzhao(at)chm.ecnu.edu.cn
 
 Research interests: Community ecology, island biogeography, myrmecology, conservation biology
 

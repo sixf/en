@@ -8,7 +8,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-78). Zhu C, Dalsgaard B, Li W, Kaiser-Bunbury CN, Simmons BI, Ren P, Zhao Y, Zeng D, Gonçalves F, Zhang X, Chang L, Ding P\*, <u>Si X</u>\*. (2025) Interconnecting fragmented forests: small and mobile birds are cornerstones in the plant-frugivore meta-network. **Proceedings of the National Academy of Sciences USA**, in press.
+78). Zhu C, Dalsgaard B, Li W, Kaiser-Bunbury CN, Simmons BI, Ren P, Zhao Y, Zeng D, Gonçalves F, Zhang X, Chang L, Ding P\*, <u>Si X</u>\*. (2025) Interconnecting fragmented forests: small and mobile birds are cornerstones in the plant-frugivore meta-network. **Proceedings of the National Academy of Sciences**, in press.
 
 77). Liu J, Tingley MW, Wu Q, Ren P, Jin T, Ding P\*, <u>Si X</u>\*. (2024) Habitat fragmentation mediates the mechanisms underlying long-term climate-driven thermophilization in birds. **eLife**, 13, RP98056.
 
