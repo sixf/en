@@ -15,7 +15,7 @@ Research interests: Animal ecology, habitat fragmentation, island biogeography, 
 
 ---
 
-## Research Associate Professor
+## Associate Professor
 
 <p><img src="http://sixf.org/files/images/people/yangyangheshan.jpg" width="100" title="Yangheshan Yang" align="right" /></p>
 
