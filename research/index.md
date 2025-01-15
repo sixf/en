@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Research
+title: Xingfeng Si
 ---
 
 <p><img src="http://sixf.org/files/images/avatar.jpg" width="100" title="Xingfeng Si" align="right" /></p>
 
-Xingfeng is principally a community ecologist and biogeographer, with a special interest in animal ecology. Using functional and phylogenetic approaches, his current research examines community assembly of island faunas, biodiversity changes after habitat fragmentation, and human impacts on biodiversity at the large scale.
+Xingfeng is professor of Ecology at East China Normal University. He is principally a community ecologist and biogeographer, with a special interest in animal ecology. Using functional and phylogenetic approaches, his current research examines community assembly of island faunas, biodiversity changes after habitat fragmentation, and human impacts on biodiversity at the large scale.
 
 ## Research Interests
 
