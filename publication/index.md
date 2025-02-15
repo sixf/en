@@ -8,13 +8,15 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-78). Zhu C, Dalsgaard B, Li W, Kaiser-Bunbury CN, Simmons BI, Ren P, Zhao Y, Zeng D, Gonçalves F, Zhang X, Chang L, Ding P\*, <u>Si X</u>\*. (2025) Interconnecting fragmented forests: small and mobile birds are cornerstones in the plant-frugivore meta-network. **Proceedings of the National Academy of Sciences**, in press.
+79). Zhao Y<sup>#</sup>, Wu C<sup>#</sup>, Leong CM, Li J, Lu W, Xu Y, <u>Si X</u>\*, Sanders NJ. (2025) Seasonality, social caste, and the interaction between island area and habitat type influence the thermal tolerance of ants on fragmented habitat islands. **Marine Life Science &amp; Technology**, in press.
+
+78). Zhu C, Dalsgaard B, Li W, Kaiser-Bunbury CN, Simmons BI, Ren P, Zhao Y, Zeng D, Gonçalves F, Zhang X, Chang L, Ding P\*, <u>Si X</u>\*. (2025) Interconnecting fragmented forests: small and mobile birds are cornerstones in the plant-frugivore meta-network. **Proceedings of the National Academy of Sciences**, 122, e2415846122.
 
 77). Liu J, Tingley MW, Wu Q, Ren P, Jin T, Ding P\*, <u>Si X</u>\*. (2024) Habitat fragmentation mediates the mechanisms underlying long-term climate-driven thermophilization in birds. **eLife**, 13, RP98056.
 
-76). Liu C, Luo Y, Yan Y, Yang Y, Zeng D, Zhao Y, <u>Si X</u>*. (2024) The formation, maintenance, and loss of island biodiversity. **Hereditas (Beijing)**, in press. doi: 10.16288/j.yczz.24-223. [Invited article]
+76). Liu C, Luo Y, Yan Y, Yang Y, Zeng D, Zhao Y, <u>Si X</u>*. (2025) The formation, maintenance, and loss of island biodiversity. **Hereditas (Beijing)**, 47, 101–132.
 
-75). Li M, Wu X, Zhou Y, Long S, Zhang M, Gu H, <u>Si X</u>, Yan E, Zhang J*. (2024) Elevational pattern of species range size of vascular plants in Changbai Mountain: A test of Rapoport’s rule. **Chinese Journal of Applied Ecology**, in press. doi: 10.13287/j.1001-9332.202400.000.
+75). Li M, Wu X, Zhou Y, Long S, Zhang M, Gu H, <u>Si X</u>, Yan E, Zhang J*. (2024) Elevational pattern of species range size of vascular plants in Changbai Mountain: A test of Rapoport’s rule. **Chinese Journal of Applied Ecology**, 35, 3329–3338.
 
 74). Zhang D, Mao R, Zhou Q, Wang Y, <u>Si X</u>, Zhao C, Zhang L*. (2024) Impacts of forest restoration on multifaceted bird diversity and community assembly in the Loess Plateau of China. **Forest Ecology and Management**, 573, 122350.
 
@@ -30,7 +32,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 68). Yang Y, Zhao Y, Stidham TA, Liu X, Zhu X, Li B, Zhang L, Ni X, <u>Si X</u>\*. (2024) Uncovering widespread Anthropocene dietary shifts in Chinese large mammalian herbivores. **Ecology Letters**, 27, e14343. [Cover article]
 
-67). Martínez AE, Zhou L, <u>Si X</u>\*, Ding P, Goodale E\*. (2024) Island biogeography of mixed-species bird flocks: A gregarious nuclear species influences island area effects. **Journal of Biogeography**, in press.
+67). Martínez AE, Zhou L, <u>Si X</u>\*, Ding P, Goodale E\*. (2024) Island biogeography of mixed-species bird flocks: A gregarious nuclear species influences island area effects. **Journal of Biogeography**, 51, 1670–1678.
 
 66). Zhu C, Dalsgaard B, Li W, Gonçalves F, Vollstädt MGR, Ren P, Zhang X, Shao J, Ding P, <u>Si X</u>\*. (2024) Generalist and topologically central avian frugivores promote plant invasion unequally across land-bridge islands. **Ecology**, 105, e4216.
 
