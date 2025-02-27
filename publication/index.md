@@ -8,6 +8,8 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
+80). Zhao Y, Zhang Z, Hao X, Zhang Y, <u>Si X</u>, Yan C\*. (2025) The architecture and stability of tripartite ecological networks with two interaction types. **Ecology**, in press.
+
 79). Zhao Y<sup>#</sup>, Wu C<sup>#</sup>, Leong CM, Li J, Lu W, Xu Y, <u>Si X</u>\*, Sanders NJ. (2025) Seasonality, social caste, and the interaction between island area and habitat type influence the thermal tolerance of ants on fragmented habitat islands. **Marine Life Science &amp; Technology**, in press.
 
 78). Zhu C, Dalsgaard B, Li W, Kaiser-Bunbury CN, Simmons BI, Ren P, Zhao Y, Zeng D, Gonçalves F, Zhang X, Chang L, Ding P\*, <u>Si X</u>\*. (2025) Interconnecting fragmented forests: small and mobile birds are cornerstones in the plant-frugivore meta-network. **Proceedings of the National Academy of Sciences**, 122, e2415846122.
@@ -36,7 +38,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 66). Zhu C, Dalsgaard B, Li W, Gonçalves F, Vollstädt MGR, Ren P, Zhang X, Shao J, Ding P, <u>Si X</u>\*. (2024) Generalist and topologically central avian frugivores promote plant invasion unequally across land-bridge islands. **Ecology**, 105, e4216.
 
-65). Zhang X, Dalsgaard B, Staab M, Zhu C, Zhao Y, Gonçalves F, Ren R, Cai C, Qiao G, Ding P\*, <u>Si X</u>\*. (2023) Habitat fragmentation increases specialization of multi-trophic interactions by high species turnover. **Proceedings of the Royal Society B: Biological Sciences**, 290, 20231372.
+65). Zhang X, Dalsgaard B, Staab M, Zhu C, Zhao Y, Gonçalves F, Ren P, Cai C, Qiao G, Ding P\*, <u>Si X</u>\*. (2023) Habitat fragmentation increases specialization of multi-trophic interactions by high species turnover. **Proceedings of the Royal Society B: Biological Sciences**, 290, 20231372.
 
 64). Li W<sup>#</sup>, Zhu C<sup>#</sup>, Grass I, Han P, Shen Y, Ding P, <u>Si X</u>\*. (2023) Widespread arboreal foraging behavior in ground-dwelling birds and the urgency of life-history studies. **Biological Conservation**, 286, 110320.
 
