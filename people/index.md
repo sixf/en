@@ -104,6 +104,25 @@ Email: zhouxiaotao226@163.com
 
 Research interests: Deep learning, bioacoustics, passive acoustic monitoring
 
+
+<p><img src="http://sixf.org/files/images/people/liuyu.png" width="100" title="Yu Liu" align="right" /></p>
+
+[**Yu Liu**](https://www.researchgate.net/profile/Yu-Liu-601) **(刘宇)**
+
+Email: yliu0202@qq.com
+
+Research interests: Bird diversity, community ecology, island biogeography, conservation biology
+
+
+<p><img src="http://sixf.org/files/images/people/tongmayin.png" width="100" title="Mayin Tong" align="right" /></p>
+
+[**Mayin Tong**](https://www.researchgate.net/profile/Mayin-Tong) **(童马胤)**
+
+Email: tongmayin@scbg.ac.cn
+
+Research interests: Ecological network, pollination ecology, island ecology
+
+
 ---
 
 ## Master's Students
@@ -161,6 +180,25 @@ Email: gongshifan2020@163.com
 
 Research interests: Behavioral ecology, bird diversity, conservation biology
 
+
+<p><img src="http://sixf.org/files/images/people/chenwenzhe.png" width="100" title="Wenzhe Chen" align="right" /></p>
+
+[**Wenzhe Chen**](https://www.researchgate.net/profile/Wenzhe-Chen-6) **(陈文哲)**
+
+Email: chenwenzhe20021107@163.com
+
+Research interests: Bird diversity, species Diversity, behavioral ecology 
+
+
+<p><img src="http://sixf.org/files/images/people/zhujingxian.png" width="100" title="Jingxian Zhu" align="right" /></p>
+
+[**Jingxian Zhu**](https://www.researchgate.net/profile/Jingxian-Zhu-4) **(朱敬娴)**
+
+Email: zjx3682@outlook.com
+
+Research interests: Biodiversity, bird diversity, conservation biology 
+
+
 ---
 
 ## Undergraduate Students
@@ -175,7 +213,7 @@ Wenhao Xu, Yang Zhou; Yiqian Tang, Xinyue Liang: bird behavior, bird diversity
 
 **Postdoctoral Fellows**
 
-Yangheshan Yang (2021–2023), Di Zeng (2021–2024)
+Yangheshan Yang (2021–2023), Di Zeng (2021–2024), Yuhao Zhao (2020–2025)
 
 **PhD Students**
 
