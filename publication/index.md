@@ -8,6 +8,16 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
+85). Liu X, Zeng D, Zhao Y, Li S, Wang S, Li B, Yuan X, Bo S, <u>Si X</u>\*. (2025) Contrasting effects of habitat fragmentation on community stability of breeding and wintering birds in urban green spaces. **Urban Forestry &amp; Urban Greening**, in press.
+
+84). Zhu C<sup>#</sup>, Sun M<sup>#</sup>, Campos-Arceiz A, Li W, Zeng D, Shen Y, Chen G, Xie H, Ding P\*, <u>Si X</u>\*. (2025) Underrated links mitigate the fragmentation-induced mutualism breakdown in a large-fruited species. **Conservation Letters**, in press.
+
+83). Zeng D, Matthews TJ, Wang R, Zhao Y, Yan C, Ding P, <u>Si X</u>\*. (2025) Defaunation erodes the diversity of rodent personality traits in fragmented forests. **Journal of Animal Ecology**, in press.
+
+82). Xie H, Ren P, Zhu C, Liu J, Sun M, <u>Si X</u>\*, Ding P\*. (2025) Declining floral color diversity alters bee color preferences in fragmented habitats. **Biological Conservation**, 309, 111322.
+
+81). Li W, Grass I, Zhu C, Hiller T, Kasten MK, Becker D, Ding P, <u>Si X</u>\*. (2025) Spatiotemporal dynamics of migratory birds reshape seed dispersal and conservation implications on fragmented islands. **Biological Conservation**, 309, 111283.
+
 80). Zhao Y, Zhang Z, Hao X, Zhang Y, <u>Si X</u>, Yan C\*. (2025) The architecture and stability of tripartite ecological networks with two interaction types. **Ecology**, in press.
 
 79). Zhao Y<sup>#</sup>, Wu C<sup>#</sup>, Leong CM, Li J, Lu W, Xu Y, <u>Si X</u>\*, Sanders NJ. (2025) Seasonality, social caste, and the interaction between island area and habitat type influence the thermal tolerance of ants on fragmented habitat islands. **Marine Life Science &amp; Technology**, in press.
