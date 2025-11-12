@@ -8,11 +8,21 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-85). Liu X, Zeng D, Zhao Y, Li S, Wang S, Li B, Yuan X, Bo S, <u>Si X</u>\*. (2025) Contrasting effects of habitat fragmentation on community stability of breeding and wintering birds in urban green spaces. **Urban Forestry &amp; Urban Greening**, in press.
+90). Li W, Grass I, Zhu C, Hiller T, Shen Y, Ding P, <u>Si X</u>\*. (2025) Temporal niche partitioning by nocturnal arboreal mammals increases modularity of plant-frugivore networks in a fragmented subtropical landscape. **Functional Ecology**, in press.
 
-84). Zhu C<sup>#</sup>, Sun M<sup>#</sup>, Campos-Arceiz A, Li W, Zeng D, Shen Y, Chen G, Xie H, Ding P\*, <u>Si X</u>\*. (2025) Underrated links mitigate the fragmentation-induced mutualism breakdown in a large-fruited species. **Conservation Letters**, in press.
+89). Han P, Yang Y, Kajanus MH, Lu W, Chen Q, Ding P, <u>Si X</u>\*. (2025) Community composition coupled with habitat fragmentation drives acoustic divergence in bird assemblages. **Journal of Animal Ecology**, in press.
 
-83). Zeng D, Matthews TJ, Wang R, Zhao Y, Yan C, Ding P, <u>Si X</u>\*. (2025) Defaunation erodes the diversity of rodent personality traits in fragmented forests. **Journal of Animal Ecology**, in press.
+88). Wang Y, Zeng D, Zhao Y, Tingley MW, Cadotte MW, Ding P, <u>Si X</u>\*. (2025) Imperfect detection biases β diversity estimates based on whether species are shared between sites. **Zoological Research**, 46, 1351–1362.
+
+87). Cai E, Ge S, Wang X, Yang Z, Xiang Z, Zhang M, Li M, Shen Y, <u>Si X</u>\*. (2025) Effects of human disturbance on nest-site dynamics and breeding success of urban *Nycticorax nycticorax*: Insights from high-frequency monitoring. **Biodiversity Science**, 33, 25025.
+
+86). Zhao Y<sup>#</sup>, Zeng D<sup>#</sup>, Matthews TJ, Craven D, Tingley MW, Wang S, Li S, Ding P, <u>Si X</u>\*. (2025) Island biogeography and life-history traits stabilize island bird communities. **Global Change Biology**, 31, e70535.
+
+85). Liu X, Zeng D, Zhao Y, Li S, Wang S, Li B, Yuan X, Bo S, <u>Si X</u>\*. (2025) Contrasting effects of habitat fragmentation on community stability of breeding and wintering birds in urban green spaces. **Urban Forestry &amp; Urban Greening**, 112, 128961.
+
+84). Zhu C<sup>#</sup>, Sun M<sup>#</sup>, Campos-Arceiz A, Li W, Zeng D, Shen Y, Chen G, Xie H, Ding P\*, <u>Si X</u>\*. (2025) Underrated links mitigate the fragmentation-induced mutualism breakdown in a large-fruited species. **Conservation Letters**, 18, e13126.
+
+83). Zeng D, Matthews TJ, Wang R, Zhao Y, Yan C, Ding P, <u>Si X</u>\*. (2025) Defaunation erodes the diversity of rodent personality traits in fragmented forests. **Journal of Animal Ecology**, 94, 2047–2061.
 
 82). Xie H, Ren P, Zhu C, Liu J, Sun M, <u>Si X</u>\*, Ding P\*. (2025) Declining floral color diversity alters bee color preferences in fragmented habitats. **Biological Conservation**, 309, 111322.
 
