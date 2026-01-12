@@ -9,7 +9,7 @@ title: People
 
 [**Dr. Xingfeng Si**](http://sixf.org/en/research/) **(斯幸峰)**
 
-Email: sixf(at)des.ecnu.edu.cn
+Email: six(at)zju.edu.cn
 
 Research interests: Animal ecology, habitat fragmentation, island biogeography, biodiversity conservation
 

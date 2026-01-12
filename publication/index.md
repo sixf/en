@@ -30,7 +30,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 80). Zhao Y, Zhang Z, Hao X, Zhang Y, <u>Si X</u>, Yan C\*. (2025) The architecture and stability of tripartite ecological networks with two interaction types. **Ecology**, in press.
 
-79). Zhao Y<sup>#</sup>, Wu C<sup>#</sup>, Leong CM, Li J, Lu W, Xu Y, <u>Si X</u>\*, Sanders NJ. (2025) Seasonality, social caste, and the interaction between island area and habitat type influence the thermal tolerance of ants on fragmented habitat islands. **Marine Life Science &amp; Technology**, in press.
+79). Zhao Y<sup>#</sup>, Wu C<sup>#</sup>, Leong CM, Li J, Lu W, Xu Y, <u>Si X</u>\*, Sanders NJ. (2025) Seasonality, social caste, and the interaction between island area and habitat type influence the thermal tolerance of ants on fragmented habitat islands. **Marine Life Science &amp; Technology**, 7, 581–593.
 
 78). Zhu C, Dalsgaard B, Li W, Kaiser-Bunbury CN, Simmons BI, Ren P, Zhao Y, Zeng D, Gonçalves F, Zhang X, Chang L, Ding P\*, <u>Si X</u>\*. (2025) Interconnecting fragmented forests: small and mobile birds are cornerstones in the plant-frugivore meta-network. **Proceedings of the National Academy of Sciences**, 122, e2415846122.
 
