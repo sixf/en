@@ -8,9 +8,11 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-90). Li W, Grass I, Zhu C, Hiller T, Shen Y, Ding P, <u>Si X</u>\*. (2025) Temporal niche partitioning by nocturnal arboreal mammals increases modularity of plant-frugivore networks in a fragmented subtropical landscape. **Functional Ecology**, in press.
+91). Wang Y, Zhao Y, Tingley MW, <u>Si X</u>\*. (2026) Reconceptualizing imperfect detection from statistical noise to a lens for ecological signal. **Global Change Biology**, in press.
 
-89). Han P, Yang Y, Kajanus MH, Lu W, Chen Q, Ding P, <u>Si X</u>\*. (2025) Community composition coupled with habitat fragmentation drives acoustic divergence in bird assemblages. **Journal of Animal Ecology**, in press.
+90). Li W, Grass I, Zhu C, Hiller T, Shen Y, Ding P, <u>Si X</u>\*. (2026) Temporal niche partitioning by nocturnal arboreal mammals increases modularity of plant-frugivore networks in a fragmented subtropical landscape. **Functional Ecology**, in press.
+
+89). Han P, Yang Y, Kajanus MH, Lu W, Chen Q, Ding P, <u>Si X</u>\*. (2026) Community composition coupled with habitat fragmentation drives acoustic divergence in bird assemblages. **Journal of Animal Ecology**, in press.
 
 88). Wang Y, Zeng D, Zhao Y, Tingley MW, Cadotte MW, Ding P, <u>Si X</u>\*. (2025) Imperfect detection biases β diversity estimates based on whether species are shared between sites. **Zoological Research**, 46, 1351–1362.
 
