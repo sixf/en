@@ -168,7 +168,7 @@ Research interests: Bird diversity, interspecific relationship, behavioral ecolo
 
 Email: zhuyingcan0707@163.com
 
-Research interests: Urban ecology, biodiversity, ecosystem services
+Research interests: Urban ecology, ant community, biodiversity, ecosystem services
 
 
 <p><img src="http://sixf.org/files/images/people/dusiyu.jpg" width="100" title="Siyu Du" align="right" /></p>
@@ -177,7 +177,7 @@ Research interests: Urban ecology, biodiversity, ecosystem services
 
 Email: sydu0715@163.com
 
-Research interests: Island biogeography, bird diversity, biodiversity
+Research interests: Island biogeography, bird diversity, biodiversity conservation
 
 
 <p><img src="http://sixf.org/files/images/people/gongshifan.jpg" width="100" title="Shifan Gong" align="right" /></p>
@@ -204,7 +204,7 @@ Research interests: Bird diversity, species Diversity, behavioral ecology
 
 Email: zjx3682@outlook.com
 
-Research interests: Biodiversity, bird diversity, conservation biology 
+Research interests: Biodiversity, bird diversity, conservation biology, island biogeography
 
 
 <p><img src="http://sixf.org/files/images/people/zhangweiyi.jpg" width="100" title="Weiyi Zhang" align="right" /></p>
