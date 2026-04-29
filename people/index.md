@@ -157,7 +157,7 @@ Research interests: Bird diversity, biodiversity conservation, island biogeograp
 
 [**Qianyuan Chen**](https://www.researchgate.net/profile/Qianyuan-Chen) **(陈钱缘)**
 
-Email: chen915s@163.com
+Email: chen915s(at)163.com
 
 Research interests: Bird diversity, interspecific relationship, behavioral ecology
 
@@ -166,7 +166,7 @@ Research interests: Bird diversity, interspecific relationship, behavioral ecolo
 
 [**Yingcan Zhu**](https://www.researchgate.net/profile/Yingcan-Zhu-2) **(朱颖璨)**
 
-Email: zhuyingcan0707@163.com
+Email: zhuyingcan0707(at)163.com
 
 Research interests: Urban ecology, ant community, biodiversity, ecosystem services
 
@@ -175,7 +175,7 @@ Research interests: Urban ecology, ant community, biodiversity, ecosystem servic
 
 [**Siyu Du**](https://www.researchgate.net/profile/Siyu-Du-13) **(杜思宇)**
 
-Email: sydu0715@163.com
+Email: sydu0715(at)163.com
 
 Research interests: Island biogeography, bird diversity, biodiversity conservation
 
@@ -184,7 +184,7 @@ Research interests: Island biogeography, bird diversity, biodiversity conservati
 
 [**Shifan Gong**](https://www.researchgate.net/profile/Shifan-Gong) **(龚诗凡)**
 
-Email: gongshifan2020@163.com
+Email: gongshifan2020(at)163.com
 
 Research interests: Behavioral ecology, bird diversity, conservation biology
 
@@ -193,7 +193,7 @@ Research interests: Behavioral ecology, bird diversity, conservation biology
 
 [**Wenzhe Chen**](https://www.researchgate.net/profile/Wenzhe-Chen-6) **(陈文哲)**
 
-Email: chenwenzhe20021107@163.com
+Email: chenwenzhe20021107(at)163.com
 
 Research interests: Bird diversity, species Diversity, behavioral ecology 
 
@@ -202,7 +202,7 @@ Research interests: Bird diversity, species Diversity, behavioral ecology
 
 [**Jingxian Zhu**](https://www.researchgate.net/profile/Jingxian-Zhu-4) **(朱敬娴)**
 
-Email: zjx3682@outlook.com
+Email: zjx3682(at)outlook.com
 
 Research interests: Biodiversity, bird diversity, conservation biology, island biogeography
 
