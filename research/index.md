@@ -57,7 +57,7 @@ Beta diversity, biodiversity conservation, biotic homogenization, camera trap, c
 
 ## Professional Services and Affiliations
 
-Editor of [*Biological Conservation*](https://www.journals.elsevier.com/biological-conservation) (2021–present)
+Editor of [*Biological Conservation*](https://www.journals.elsevier.com/biological-conservation) (2020–present)
 
 Associate Editor-in-Chief of [*Zoological Research: Diversity and Conservation*](http://www.zrdc.ac.cn) (2023–present)
 

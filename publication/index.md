@@ -8,11 +8,19 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-91). Wang Y, Zhao Y, Tingley MW, <u>Si X</u>\*. (2026) Reconceptualizing imperfect detection from statistical noise to a lens for ecological signal. **Global Change Biology**, in press.
+95). Matthews TJ\*, Sayol F, Soares FC, Helena JH, Chu O, Martínez-Rubio N, Wayman JP, Martin TE, Rozzi R, Bellard C, Blackburn TM, Borges PAV, Borregaard MK, Carbral JS, Cardoso P, Dalsgaard B, Fattorini S, Fernández-Palacios JM, Helmus MR, Hume JP, Jezierski MT, Kreft H, Lapiedra O, Lomolino MV, Nogué S, Santos AMC, Schrader J, <u>Si X</u>, Svenning JC, Triantis KA, Valente L, van der Geer AAE, Weigelt P, Whittaker RJ, Faurby S. (2026) Emergent patterns of island biodiversity in the Anthropocene. **Science Advances**, in press.
 
-90). Li W, Grass I, Zhu C, Hiller T, Shen Y, Ding P, <u>Si X</u>\*. (2026) Temporal niche partitioning by nocturnal arboreal mammals increases modularity of plant-frugivore networks in a fragmented subtropical landscape. **Functional Ecology**, in press.
+94). Shen Y<sup>#</sup>, Zhao Y<sup>#</sup>\*, Riva F, Li W, Zhu C, Zhang X, Ding P, <u>Si X</u>\*. (2026) Several small patches consistently support higher taxonomic, functional, phylogenetic, and interaction diversity than few large ones across multiple taxa. **Biological Conservation**, 318, 111864.
 
-89). Han P, Yang Y, Kajanus MH, Lu W, Chen Q, Ding P, <u>Si X</u>\*. (2026) Community composition coupled with habitat fragmentation drives acoustic divergence in bird assemblages. **Journal of Animal Ecology**, in press.
+93). Yang Y, Boyce MS\*, Li X, <u>Si X</u>\*. (2026) How much is too much? Grazing intensity governs wildlife–livestock interactions in alpine meadows. **Biological Conservation**, 317, 111804.
+
+92). Hao Z, Shen X, <u>Si X</u>, Zhao Y, Wei C, Wu F, Xu X, Que P, Dong L, Hua F, Zhang L, Zhang C\*, Liu Y\*. (2026) Standards and recommendations for passive acoustic monitoring of birds in China. **Biodiversity Science**, in press.
+
+91). Wang Y, Zhao Y, Tingley MW, <u>Si X</u>\*. (2026) Reconceptualizing imperfect detection from statistical noise to a lens for ecological signal. **Global Change Biology**, 32, e70732.
+
+90). Li W, Grass I, Zhu C, Hiller T, Shen Y, Ding P, <u>Si X</u>\*. (2026) Temporal niche partitioning by nocturnal arboreal mammals increases modularity of plant-frugivore networks in a fragmented subtropical landscape. **Functional Ecology**, 40, 463–475.
+
+89). Han P, Yang Y, Kajanus MH, Lu W, Chen Q, Ding P, <u>Si X</u>\*. (2026) Community composition coupled with habitat fragmentation drives acoustic divergence in bird assemblages. **Journal of Animal Ecology**, 95, 577–590. [Research Highlight](https://doi.org/10.1111/1365-2656.70206)
 
 88). Wang Y, Zeng D, Zhao Y, Tingley MW, Cadotte MW, Ding P, <u>Si X</u>\*. (2025) Imperfect detection biases β diversity estimates based on whether species are shared between sites. **Zoological Research**, 46, 1351–1362.
 
@@ -66,7 +74,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 63). Liu X, Zhao Y, Zeng D, Yang Y, Li W, Kang Y, Wei G, Yuan X, Bo S, <u>Si X</u>\*. (2023) Characterizing bird species for achieving the win-wins of conserving biodiversity and enhancing regulating ecosystem services in urban green spaces. **Urban Forestry &amp; Urban Greening**, 87, 128064.
 
-62). Zhu C<sup>#</sup>, Li W<sup>#</sup>, Campos-Arceiz A, Dalsgaard B, Ren P, Wang D, Zhang X, Sun M, Si Q, Kang Y, Ding P\*, <u>Si X</u>\*. (2023) The reliability of regional ecological knowledge to build local interaction networks: a test using seed-dispersal networks across land-bridge islands. **Proceedings of the Royal Society B: Biological Sciences**, 290, 20231221.
+62). Zhu C<sup>#</sup>, Li W<sup>#</sup>, Campos-Arceiz A, Dalsgaard B, Ren P, Wang D, Zhang X, Sun M, Si Q, Kang Y, Ding P\*, <u>Si X</u>\*. (2023) The reliability of regional ecological knowledge to build local interaction networks: a test using seed-dispersal networks across land-bridge islands. **Proceedings of the Royal Society B: Biological Sciences**, 290, 20231221. [Research Highlight](https://www.nature.com/articles/s41559-023-02188-5)
 
 61). Liang J<sup>#</sup>, Ding Z<sup>#</sup>, Li C, Hu Y, Zhou Z, Lie G, Hu H\*, <u>Si X</u>\*. (2024) Patterns and drivers of avian taxonomic and phylogenetic beta diversity in China vary across geographical backgrounds and dispersal abilities. **Zoological Research**, 45, 125–135.
 
@@ -82,7 +90,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 55). Han P, Zhao Y, Kang Y, Ding P, <u>Si X</u>*. (2024) Island biogeography of soundscapes: island area shapes spatial patterns of avian acoustic diversity. **Journal of Biogeography**, 51, 511–521.
 
-54). Wang D<sup>#</sup>, Zhao Y<sup>#</sup>, Tang S, Liu X, Li W, Han P, Zeng D, Yang Y, Wei G, Kang Y, <u>Si X</u>\*. (2023) Nearby large islands diminish biodiversity of the focal island by a negative target effect. **Journal of Animal Ecology**, 92, 492–502.
+54). Wang D<sup>#</sup>, Zhao Y<sup>#</sup>, Tang S, Liu X, Li W, Han P, Zeng D, Yang Y, Wei G, Kang Y, <u>Si X</u>\*. (2023) Nearby large islands diminish biodiversity of the focal island by a negative target effect. **Journal of Animal Ecology**, 92, 492–502. [Elton Prize 2023 Shortlisted articles](https://besjournals.onlinelibrary.wiley.com/doi/toc/10.1111/(ISSN)1365-2656.Elton-Prize-2023)
 
 53). Li W, Zhu C, Grass I, Vázquez D, Wang D, Zhao Y, Zeng D, Kang Y, Ding P, <u>Si X</u>\*. (2022) Plant-frugivore network simplication under habitat fragmentation leaves a small core of interacting generalists. **Communications Biology**, 5, 1214.
 
