@@ -35,6 +35,7 @@ Email: yhzhao(at)des.ecnu.edu.cn
 
 Research interests: Community ecology, island biogeography, myrmecology, conservation biology
 
+---
 
 ## Postdoctoral Fellows
 
@@ -49,7 +50,7 @@ Research interests: Ornithology, plant-animal interaction, ecological network, c
 
 <p><img src="http://sixf.org/files/images/people/liujuan.jpg" width="100" title="Juan Liu" align="right" /></p>
 
-[**Juan Liu**](https://scholar.google.com/citations?user=bP3xVL8AAAAJ&hl=en&oi=sra) **(刘娟)**
+[**Dr. Juan Liu**](https://scholar.google.com/citations?user=bP3xVL8AAAAJ&hl=en&oi=sra) **(刘娟)**
 
 Email: juanliu(at)zju.edu.cn
 
@@ -58,7 +59,7 @@ Research interests: Habitat fragmentation, climate warming, community ecology, b
 
 <p><img src="http://sixf.org/files/images/people/wangyue.jpg" width="100" title="Yue Wang" align="right" /></p>
 
-[**Yue Wang**](https://www.researchgate.net/profile/Wang-Yue-109) **(王月)**
+[**Dr. Yue Wang**](https://www.researchgate.net/profile/Wang-Yue-109) **(王月)**
 
 Email: wangyueeco(at)zju.edu.cn
 
@@ -100,7 +101,7 @@ Research interests: Bird diversity, conservation biology, urban ecology, SLOSS d
 
 [**Xiaotao Zhou**](https://www.researchgate.net/profile/Xiaotao-Zhou-3) **(周晓韬)**
 
-Email: zhouxiaotao226@163.com
+Email: zhouxiaotao226(at)163.com
 
 Research interests: Deep learning, bioacoustics, passive acoustic monitoring
 
@@ -109,7 +110,7 @@ Research interests: Deep learning, bioacoustics, passive acoustic monitoring
 
 [**Yu Liu**](https://www.researchgate.net/profile/Yu-Liu-601) **(刘宇)**
 
-Email: yliu0202@qq.com
+Email: yliu0202(at)qq.com
 
 Research interests: Bird diversity, community ecology, island biogeography, conservation biology
 
@@ -118,7 +119,7 @@ Research interests: Bird diversity, community ecology, island biogeography, cons
 
 [**Mayin Tong**](https://www.researchgate.net/profile/Mayin-Tong) **(童马胤)**
 
-Email: tongmayin@scbg.ac.cn
+Email: tongmayin(at)scbg.ac.cn
 
 Research interests: Ecological network, pollination ecology, island ecology
 

@@ -5,7 +5,7 @@ title: Xingfeng Si
 
 <p><img src="http://sixf.org/files/images/avatar.jpg" width="100" title="Xingfeng Si" align="right" /></p>
 
-Xingfeng is professor of Ecology at Zhejiang University. He is principally a community ecologist and biogeographer, with a special interest in animal ecology. Using functional and phylogenetic approaches, his current research examines community assembly of island faunas, biodiversity changes after habitat fragmentation, and human impacts on biodiversity at the large scale.
+Dr. Xingfeng Si is a professor in the College of Life Sciences at Zhejiang University, China. As a community ecologist and biogeographer, he specializes in bird diversity and plant-animal interactions. His research focuses on how habitat fragmentation, land-use change, and urbanization impact biodiversity and community dynamics. Using the Thousand Island Lake and the Zhoushan Archipelago in Zhejiang Province as natural laboratories and birds as model taxa, he integrates functional and phylogenetic approaches to understand community assembly on islands, biodiversity changes following habitat fragmentation, and the effect of human activities on biodiversity maintenance at the large scale.
 
 ## Research Interests
 

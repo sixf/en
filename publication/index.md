@@ -8,6 +8,14 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
+99). Yuan S, Zhao Y, Lessard JP, Martin TE, Matthews TJ, <u>Si X</u>\*. (2026) Rebuilding the species pool within a phylogenetic framework. **Trends in Ecology and Evolution**, in press.
+
+98). Zhu C, Ren P, Bascompte J, Dalsgaard B, Song C, Li W, Gonçalves F, Chang L, Zhao Y, Zeng D, Ding P, <u>Si X</u>\*. (2026) Larger habitat islands maintain more persistent mutualistic assemblages. **Nature Communications**, in press.
+
+97). Zhang D, Yan C, Zhang L, Zhou Q, <u>Si X</u>, Mao R, Zhou F, Liu M, Zhao C\*. (2026) Trophic network rewiring in restored forests: functional consequences of abundance versus body size dominance. **Journal of Applied Ecology**, in press.
+
+96). Bates AE\*, Mass B, Adams VM, Benson JF, DellaSala DA, Ghoddousi A, Goswami VR, Lee JSH, Nori J, Rinaudo V, <u>Si X</u>, Valkó O, Devictor V\*. (2026) Safeguarding the role of humans in conservation science in the age of AI. **Biological Conservation**, in press.
+
 95). Matthews TJ\*, Sayol F, Soares FC, Helena JH, Chu O, Martínez-Rubio N, Wayman JP, Martin TE, Rozzi R, Bellard C, Blackburn TM, Borges PAV, Borregaard MK, Carbral JS, Cardoso P, Dalsgaard B, Fattorini S, Fernández-Palacios JM, Helmus MR, Hume JP, Jezierski MT, Kreft H, Lapiedra O, Lomolino MV, Nogué S, Santos AMC, Schrader J, <u>Si X</u>, Svenning JC, Triantis KA, Valente L, van der Geer AAE, Weigelt P, Whittaker RJ, Faurby S. (2026) Emergent patterns of island biodiversity in the Anthropocene. **Science Advances**, in press.
 
 94). Shen Y<sup>#</sup>, Zhao Y<sup>#</sup>\*, Riva F, Li W, Zhu C, Zhang X, Ding P, <u>Si X</u>\*. (2026) Several small patches consistently support higher taxonomic, functional, phylogenetic, and interaction diversity than few large ones across multiple taxa. **Biological Conservation**, 318, 111864.
