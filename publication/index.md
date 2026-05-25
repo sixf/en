@@ -8,11 +8,13 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-99). Yuan S, Zhao Y, Lessard JP, Martin TE, Matthews TJ, <u>Si X</u>\*. (2026) Rebuilding the species pool within a phylogenetic framework. **Trends in Ecology and Evolution**, in press.
+100). Yuan S, Zhao Y, Lessard JP, Martin TE, Matthews TJ, <u>Si X</u>\*. (2026) Rebuilding the species pool within a phylogenetic framework. **Trends in Ecology and Evolution**, in press.
 
-98). Zhu C, Ren P, Bascompte J, Dalsgaard B, Song C, Li W, Gonçalves F, Chang L, Zhao Y, Zeng D, Ding P, <u>Si X</u>\*. (2026) Larger habitat islands maintain more persistent mutualistic assemblages. **Nature Communications**, in press.
+99). Zhu C, Ren P, Bascompte J, Dalsgaard B, Song C, Li W, Gonçalves F, Chang L, Zhao Y, Zeng D, Ding P, <u>Si X</u>\*. (2026) Larger habitat islands maintain more persistent mutualistic assemblages. **Nature Communications**, in press.
 
-97). Zhang D, Yan C, Zhang L, Zhou Q, <u>Si X</u>, Mao R, Zhou F, Liu M, Zhao C\*. (2026) Trophic network rewiring in restored forests: functional consequences of abundance versus body size dominance. **Journal of Applied Ecology**, in press.
+98). Zhang D, Yan C, Zhang L, Zhou Q, <u>Si X</u>, Mao R, Zhou F, Liu M, Zhao C\*. (2026) Trophic network rewiring in restored forests: functional consequences of abundance versus body size dominance. **Journal of Applied Ecology**, in press.
+
+97). Chen G, Zhu C, Ren P, Liu J, Sun M, Ding P\*, <u>Si X</u>\*. (2026) Temporal dynamics of bird species-habitat networks on forested islands. **Avian Research**, in press.
 
 96). Bates AE\*, Mass B, Adams VM, Benson JF, DellaSala DA, Ghoddousi A, Goswami VR, Lee JSH, Nori J, Rinaudo V, <u>Si X</u>, Valkó O, Devictor V\*. (2026) Safeguarding the role of humans in conservation science in the age of AI. **Biological Conservation**, in press.
 
