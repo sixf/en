@@ -8,23 +8,32 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 ---
 
-100). Yuan S, Zhao Y, Lessard JP, Martin TE, Matthews TJ, <u>Si X</u>\*. (2026) Rebuilding the species pool within a phylogenetic framework. **Trends in Ecology and Evolution**, in press.
+104). Kumar A<sup>#</sup>, Wu J<sup>#</sup>, Ding P, Bro-Jørgensen J, Dutour M, Martinez AE, <u>Si X</u>\*, Zhang Q\*, Goodale E\*. (2026) Species diversity increases information flow about predation in bird communities.
+**PLOS Biology**, in press.
 
-99). Zhu C, Ren P, Bascompte J, Dalsgaard B, Song C, Li W, Gonçalves F, Chang L, Zhao Y, Zeng D, Ding P, <u>Si X</u>\*. (2026) Larger habitat islands maintain more persistent mutualistic assemblages. **Nature Communications**, in press.
+103). <u>Si X</u>\*, Zhang H, Steele M. (2026) Beyond species: protecting species interactions in a changing environment. **Biological Conservation**, 324, 112136.
 
-98). Zhang D, Yan C, Zhang L, Zhou Q, <u>Si X</u>, Mao R, Zhou F, Liu M, Zhao C\*. (2026) Trophic network rewiring in restored forests: functional consequences of abundance versus body size dominance. **Journal of Applied Ecology**, in press.
+102). Zhang X, Zhu C\*, Yan C, Fu J, Zhu J, Yu M, Qiao G, Ding P, <u>Si X</u>. (2026) Distinct responses of species structural roles in multi-trophic interactions to island area and isolation. **Ecography**, 2026, e08954.
 
-97). Chen G, Zhu C, Ren P, Liu J, Sun M, Ding P\*, <u>Si X</u>\*. (2026) Temporal dynamics of bird species-habitat networks on forested islands. **Avian Research**, in press.
+101). Yang Y, Stidham TA, Li X, <u>Si X</u>\*. (2026) Unexpected asymmetric Qinghai-Tibetan wildlife dietary response to anthropause: rapid initial shifts and a slow return. **Journal of Animal Ecology**, 95, 2147–2158.
 
-96). Bates AE\*, Mass B, Adams VM, Benson JF, DellaSala DA, Ghoddousi A, Goswami VR, Lee JSH, Nori J, Rinaudo V, <u>Si X</u>, Valkó O, Devictor V\*. (2026) Safeguarding the role of humans in conservation science in the age of AI. **Biological Conservation**, in press.
+100). Yuan S, Zhao Y, Lessard JP, Martin TE, Matthews TJ, <u>Si X</u>\*. (2026) Rebuilding the species pool within a phylogenetic framework. **Trends in Ecology and Evolution**, 41, 952–962.
 
-95). Matthews TJ\*, Sayol F, Soares FC, Helena JH, Chu O, Martínez-Rubio N, Wayman JP, Martin TE, Rozzi R, Bellard C, Blackburn TM, Borges PAV, Borregaard MK, Carbral JS, Cardoso P, Dalsgaard B, Fattorini S, Fernández-Palacios JM, Helmus MR, Hume JP, Jezierski MT, Kreft H, Lapiedra O, Lomolino MV, Nogué S, Santos AMC, Schrader J, <u>Si X</u>, Svenning JC, Triantis KA, Valente L, van der Geer AAE, Weigelt P, Whittaker RJ, Faurby S. (2026) Emergent patterns of island biodiversity in the Anthropocene. **Science Advances**, in press.
+99). Zhu C, Ren P, Bascompte J, Dalsgaard B, Song C, Li W, Gonçalves F, Chang L, Zhao Y, Zeng D, Ding P, <u>Si X</u>\*. (2026) Larger habitat islands maintain more persistent mutualistic assemblages. **Nature Communications**, 17, 10105.
+
+98). Zhang D, Yan C, Zhang L, Zhou Q, <u>Si X</u>, Mao R, Zhou F, Liu M, Zhao C\*. (2026) Abundant and morphologically large birds underpin top-down control in rewired trophic networks of restored forests. **Journal of Applied Ecology**, 63, e70471.
+
+97). Chen G, Zhu C, Ren P, Liu J, Sun M, Ding P\*, <u>Si X</u>\*. (2026) Temporal dynamics of bird species-habitat networks on forested islands. **Avian Research**, 17, 100396.
+
+96). Bates AE\*, Mass B, Adams VM, Benson JF, DellaSala DA, Ghoddousi A, Goswami VR, Lee JSH, Nori J, Rinaudo V, <u>Si X</u>, Valkó O, Devictor V\*. (2026) Safeguarding the role of humans in conservation science in the age of AI. **Biological Conservation**, 319, 111893.
+
+95). Matthews TJ\*, Sayol F, Soares FC, Helena JH, Chu O, Martínez-Rubio N, Wayman JP, Martin TE, Rozzi R, Bellard C, Blackburn TM, Borges PAV, Borregaard MK, Carbral JS, Cardoso P, Dalsgaard B, Fattorini S, Fernández-Palacios JM, Helmus MR, Hume JP, Jezierski MT, Kreft H, Lapiedra O, Lomolino MV, Nogué S, Santos AMC, Schrader J, <u>Si X</u>, Svenning JC, Triantis KA, Valente L, van der Geer AAE, Weigelt P, Whittaker RJ, Faurby S. (2026) Emergent patterns of island biodiversity in the Anthropocene. **Science Advances**, 12, aee1788.
 
 94). Shen Y<sup>#</sup>, Zhao Y<sup>#</sup>\*, Riva F, Li W, Zhu C, Zhang X, Ding P, <u>Si X</u>\*. (2026) Several small patches consistently support higher taxonomic, functional, phylogenetic, and interaction diversity than few large ones across multiple taxa. **Biological Conservation**, 318, 111864.
 
 93). Yang Y, Boyce MS\*, Li X, <u>Si X</u>\*. (2026) How much is too much? Grazing intensity governs wildlife–livestock interactions in alpine meadows. **Biological Conservation**, 317, 111804.
 
-92). Hao Z, Shen X, <u>Si X</u>, Zhao Y, Wei C, Wu F, Xu X, Que P, Dong L, Hua F, Zhang L, Zhang C\*, Liu Y\*. (2026) Standards and recommendations for passive acoustic monitoring of birds in China. **Biodiversity Science**, in press.
+92). Hao Z, Shen X, <u>Si X</u>, Zhao Y, Wei C, Wu F, Xu X, Que P, Dong L, Hua F, Zhang L, Zhang C\*, Liu Y\*. (2026) Standards and recommendations for passive acoustic monitoring of birds in China. **Biodiversity Science**, 34, 25474.
 
 91). Wang Y, Zhao Y, Tingley MW, <u>Si X</u>\*. (2026) Reconceptualizing imperfect detection from statistical noise to a lens for ecological signal. **Global Change Biology**, 32, e70732.
 
@@ -48,7 +57,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 81). Li W, Grass I, Zhu C, Hiller T, Kasten MK, Becker D, Ding P, <u>Si X</u>\*. (2025) Spatiotemporal dynamics of migratory birds reshape seed dispersal and conservation implications on fragmented islands. **Biological Conservation**, 309, 111283.
 
-80). Zhao Y, Zhang Z, Hao X, Zhang Y, <u>Si X</u>, Yan C\*. (2025) The architecture and stability of tripartite ecological networks with two interaction types. **Ecology**, in press.
+80). Zhao Y, Zhang Z, Hao X, Zhang Y, <u>Si X</u>, Yan C\*. (2025) The architecture and stability of tripartite ecological networks with two interaction types. **Ecology**, 106, e70098.
 
 79). Zhao Y<sup>#</sup>, Wu C<sup>#</sup>, Leong CM, Li J, Lu W, Xu Y, <u>Si X</u>\*, Sanders NJ. (2025) Seasonality, social caste, and the interaction between island area and habitat type influence the thermal tolerance of ants on fragmented habitat islands. **Marine Life Science &amp; Technology**, 7, 581–593.
 
