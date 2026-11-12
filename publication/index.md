@@ -17,7 +17,7 @@ For a full list of publications, click on my [Google Scholar](http://scholar.goo
 
 101). Yang Y, Stidham TA, Li X, <u>Si X</u>\*. (2026) Unexpected asymmetric Qinghai-Tibetan wildlife dietary response to anthropause: rapid initial shifts and a slow return. **Journal of Animal Ecology**, 95, 2147–2158.
 
-100). Yuan S, Zhao Y, Lessard JP, Martin TE, Matthews TJ, <u>Si X</u>\*. (2026) Rebuilding the species pool within a phylogenetic framework. **Trends in Ecology and Evolution**, 41, 952–962.
+100). Yuan S, Zhao Y, Lessard JP, Martin TE, Matthews TJ, <u>Si X</u>\*. (2026) Rebuilding the species pool within a phylogenetic framework. **Trends in Ecology & Evolution**, 41, 952–962.
 
 99). Zhu C, Ren P, Bascompte J, Dalsgaard B, Song C, Li W, Gonçalves F, Chang L, Zhao Y, Zeng D, Ding P, <u>Si X</u>\*. (2026) Larger habitat islands maintain more persistent mutualistic assemblages. **Nature Communications**, 17, 10105.
 
